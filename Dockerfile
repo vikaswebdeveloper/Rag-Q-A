@@ -12,21 +12,17 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 COPY backend/requirements.txt /app/requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy application directories
+# Copy backend application and data corpus
 COPY backend /app/backend
-COPY chromaDB /app/chromaDB
 COPY data /app/data
-COPY users.db /app/users.db
-COPY userdata.db /app/userdata.db
 
-# Default Hugging Face Spaces port is 7860
-EXPOSE 7860
+EXPOSE 8000
 
-ENV PORT=7860
+ENV PORT=8000
 ENV CHROMA_PATH=/app/chromaDB
 ENV DATA_DIR=/app/data
 ENV USERS_DB_URL=sqlite:////app/users.db
 ENV USERDATA_DB_URL=sqlite:////app/userdata.db
 
-CMD ["uvicorn", "backend.app.main:app", "--host", "0.0.0.0", "--port", "7860"]
-
+# Use Render's dynamic $PORT
+CMD ["sh", "-c", "uvicorn backend.app.main:app --host 0.0.0.0 --port ${PORT:-8000}"]
