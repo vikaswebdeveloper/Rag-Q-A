@@ -9,8 +9,8 @@ __pycache__/
 *$py.class
 *.log
 
-# Large Local Databases (generated from data/ folder)
-chromaDB/
+# Large Local Databases
+chromaDB/chroma.sqlite3
 users.db
 userdata.db
 

@@ -33,6 +33,20 @@ async def lifespan(app: FastAPI):
     except Exception as e:
         logger.warning("Could not initialize databases (Postgres might be offline or starting): %s", e)
 
+    # Unpack pre-computed ChromaDB if compressed
+    try:
+        chroma_dir = settings.resolve(settings.CHROMA_PATH)
+        gz_file = chroma_dir / "chroma.sqlite3.gz"
+        db_file = chroma_dir / "chroma.sqlite3"
+        if gz_file.exists() and not db_file.exists():
+            import gzip, shutil
+            logger.info("Unpacking pre-computed %s -> %s ...", gz_file.name, db_file.name)
+            with gzip.open(gz_file, "rb") as f_in, open(db_file, "wb") as f_out:
+                shutil.copyfileobj(f_in, f_out)
+            logger.info("ChromaDB index unpacked successfully.")
+    except Exception as e:
+        logger.warning("Could not unpack chroma.sqlite3.gz: %s", e)
+
     # Initialize ChromaDB
     try:
         col = rag.getCollection()
@@ -41,9 +55,9 @@ async def lifespan(app: FastAPI):
         if count == 0:
             logger.info("ChromaDB is empty. Launching background auto-indexer for data/ corpus...")
             import threading
-            from main import loadDocs, createChunk, storeInChroma, DatabaseFolder, Collection, DataFolder
             def _auto_index():
                 try:
+                    from main import loadDocs, createChunk, storeInChroma, DatabaseFolder, Collection, DataFolder
                     docs = loadDocs(DataFolder)
                     chunks = createChunk(docs)
                     storeInChroma(chunks, db_path=DatabaseFolder, collection_name=Collection, reset=True)

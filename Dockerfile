@@ -12,17 +12,20 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 COPY backend/requirements.txt /app/requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy backend application and data corpus
+# Copy application files, data, pre-indexed vectors, and scripts
 COPY backend /app/backend
 COPY data /app/data
+COPY chromaDB /app/chromaDB
+COPY main.py /app/main.py
 
-EXPOSE 8000
-
+ENV PYTHONPATH=/app
 ENV PORT=8000
 ENV CHROMA_PATH=/app/chromaDB
 ENV DATA_DIR=/app/data
 ENV USERS_DB_URL=sqlite:////app/users.db
 ENV USERDATA_DB_URL=sqlite:////app/userdata.db
+
+EXPOSE 8000
 
 # Use Render's dynamic $PORT
 CMD ["sh", "-c", "uvicorn backend.app.main:app --host 0.0.0.0 --port ${PORT:-8000}"]
