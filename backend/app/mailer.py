@@ -97,6 +97,10 @@ def sendEmail(to: str, subject: str, text: str, html: str):
             logger.info("Sent email to %s: %s", to, subject)
     except Exception as e:
         logger.error("Failed to send email to %s: %s", to, e)
+        print(f"\n[EMAIL FALLBACK - SMTP FAILED] To: {to} | Subject: {subject} | Error: {e}")
+        print("-" * 50)
+        print(text)
+        print("-" * 50 + "\n")
 
 
 def sendVerification(user: User, token: str):
