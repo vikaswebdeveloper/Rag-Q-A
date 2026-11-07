@@ -1,0 +1,446 @@
+import json
+from pathlib import Path
+
+eval_dir = Path("eval")
+eval_dir.mkdir(parents=True, exist_ok=True)
+results_dir = eval_dir / "results"
+results_dir.mkdir(parents=True, exist_ok=True)
+
+testset = [
+    # --- 1. History (5 facts) ---
+    {
+        "id": "fact-hist-1",
+        "type": "fact",
+        "turns": ["When did Apollo 11 land on the Moon?"],
+        "gold": ["history__apollo_11"],
+        "reference": "July 20, 1969",
+        "facts": [["July 20", "20 July"], ["1969"]]
+    },
+    {
+        "id": "fact-hist-2",
+        "type": "fact",
+        "turns": ["Who flew the Apollo 11 Command Module Columbia in orbit?"],
+        "gold": ["history__apollo_11"],
+        "reference": "Michael Collins",
+        "facts": [["Michael Collins", "Collins"]]
+    },
+    {
+        "id": "fact-hist-3",
+        "type": "fact",
+        "turns": ["Who was the first Roman Emperor granted the title Augustus?"],
+        "gold": ["history__roman_empire"],
+        "reference": "Octavian / Augustus in 27 BC",
+        "facts": [["Octavian", "Augustus"], ["27 BC", "27 BCE"]]
+    },
+    {
+        "id": "fact-hist-4",
+        "type": "fact",
+        "turns": ["What type of wooden vessel characterized Viking maritime mobility?"],
+        "gold": ["history__vikings"],
+        "reference": "The longship",
+        "facts": [["longship", "long ship", "longships"]]
+    },
+    {
+        "id": "fact-hist-5",
+        "type": "fact",
+        "turns": ["Who developed the steam engine in 1776 that powered the Industrial Revolution?"],
+        "gold": ["history__industrial_revolution"],
+        "reference": "James Watt",
+        "facts": [["James Watt", "Watt"]]
+    },
+
+    # --- 2. Science (5 facts) ---
+    {
+        "id": "fact-sci-1",
+        "type": "fact",
+        "turns": ["Who discovered the molecular double helix structure of DNA in 1953?"],
+        "gold": ["science__dna"],
+        "reference": "James Watson and Francis Crick",
+        "facts": [["Watson", "James Watson"], ["Crick", "Francis Crick"]]
+    },
+    {
+        "id": "fact-sci-2",
+        "type": "fact",
+        "turns": ["What base does adenine always pair with in DNA?"],
+        "gold": ["science__dna"],
+        "reference": "Thymine",
+        "facts": [["thymine", "T"]]
+    },
+    {
+        "id": "fact-sci-3",
+        "type": "fact",
+        "turns": ["What instrument is used to record seismic waves during an earthquake?"],
+        "gold": ["science__earthquakes"],
+        "reference": "Seismograph / seismometer",
+        "facts": [["seismograph", "seismometer", "seismographs"]]
+    },
+    {
+        "id": "fact-sci-4",
+        "type": "fact",
+        "turns": ["What cellular organelle houses the chlorophyll used in photosynthesis?"],
+        "gold": ["science__photosynthesis"],
+        "reference": "Chloroplasts",
+        "facts": [["chloroplast", "chloroplasts"]]
+    },
+    {
+        "id": "fact-sci-5",
+        "type": "fact",
+        "turns": ["Who formulated the quantum Uncertainty Principle in 1927?"],
+        "gold": ["science__quantum_mechanics"],
+        "reference": "Werner Heisenberg",
+        "facts": [["Heisenberg", "Werner Heisenberg"]]
+    },
+
+    # --- 3. Food (5 facts) ---
+    {
+        "id": "fact-food-1",
+        "type": "fact",
+        "turns": ["Where were potatoes first domesticated between 8000 and 5000 BC?"],
+        "gold": ["food__potato"],
+        "reference": "Southern Peru and northwestern Bolivia (Andean region)",
+        "facts": [["Peru", "Bolivia", "Andes", "Andean"]]
+    },
+    {
+        "id": "fact-food-2",
+        "type": "fact",
+        "turns": ["What botanical nightshade family do potatoes belong to?"],
+        "gold": ["food__potato"],
+        "reference": "Solanaceae",
+        "facts": [["Solanaceae", "nightshade"]]
+    },
+    {
+        "id": "fact-food-3",
+        "type": "fact",
+        "turns": ["What are the four traditional ingredients used in beer brewing?"],
+        "gold": ["food__beer"],
+        "reference": "Water, malted barley, yeast, and hops",
+        "facts": [["water"], ["barley", "malt"], ["yeast"], ["hops", "hop"]]
+    },
+    {
+        "id": "fact-food-4",
+        "type": "fact",
+        "turns": ["Where did coffee drinking originate in the 15th century?"],
+        "gold": ["food__coffee"],
+        "reference": "Sufi monasteries in Yemen",
+        "facts": [["Yemen", "Ethiopia"]]
+    },
+    {
+        "id": "fact-food-5",
+        "type": "fact",
+        "turns": ["What tree produces cacao beans used to make chocolate?"],
+        "gold": ["food__chocolate"],
+        "reference": "Theobroma cacao",
+        "facts": [["Theobroma cacao", "cacao", "cocoa"]]
+    },
+
+    # --- 4. Health (5 facts) ---
+    {
+        "id": "fact-health-1",
+        "type": "fact",
+        "turns": ["What neurotransmitter receptors does caffeine antagonize in the brain?"],
+        "gold": ["health__caffeine"],
+        "reference": "Adenosine receptors",
+        "facts": [["adenosine"]]
+    },
+    {
+        "id": "fact-health-2",
+        "type": "fact",
+        "turns": ["What hormone is synthesized by the pineal gland in response to darkness to promote sleep?"],
+        "gold": ["health__sleep_hygiene"],
+        "reference": "Melatonin",
+        "facts": [["melatonin"]]
+    },
+    {
+        "id": "fact-health-3",
+        "type": "fact",
+        "turns": ["How many chambers are there in the human heart?"],
+        "gold": ["health__cardiovascular_system"],
+        "reference": "Four chambers",
+        "facts": [["four", "4"]]
+    },
+    {
+        "id": "fact-health-4",
+        "type": "fact",
+        "turns": ["Where do T lymphocytes mature in the human body?"],
+        "gold": ["health__immune_system"],
+        "reference": "In the thymus",
+        "facts": [["thymus"]]
+    },
+    {
+        "id": "fact-health-5",
+        "type": "fact",
+        "turns": ["How much metabolic energy per gram do carbohydrates and proteins provide?"],
+        "gold": ["health__nutrition_basics"],
+        "reference": "4 kcal/g",
+        "facts": [["4", "four"]]
+    },
+
+    # --- 5. Geography (5 facts) ---
+    {
+        "id": "fact-geo-1",
+        "type": "fact",
+        "turns": ["What is the official summit elevation of Mount Everest as remeasured in 2020?"],
+        "gold": ["geography__mount_everest"],
+        "reference": "8,848.86 meters",
+        "facts": [["8,848", "8848", "29,031", "29031"]]
+    },
+    {
+        "id": "fact-geo-2",
+        "type": "fact",
+        "turns": ["Who achieved the first confirmed successful summit ascent of Mount Everest in May 1953?"],
+        "gold": ["geography__mount_everest"],
+        "reference": "Edmund Hillary and Tenzing Norgay",
+        "facts": [["Hillary", "Edmund Hillary"], ["Tenzing", "Tenzing Norgay"]]
+    },
+    {
+        "id": "fact-geo-3",
+        "type": "fact",
+        "turns": ["Which river discharges roughly 20 percent of total riverine water into global oceans?"],
+        "gold": ["geography__amazon_river"],
+        "reference": "The Amazon River",
+        "facts": [["Amazon"]]
+    },
+    {
+        "id": "fact-geo-4",
+        "type": "fact",
+        "turns": ["What percentage of the Sahara Desert is covered by sand seas (ergs)?"],
+        "gold": ["geography__sahara_desert"],
+        "reference": "About 25 percent",
+        "facts": [["25", "25%", "twenty-five"]]
+    },
+    {
+        "id": "fact-geo-5",
+        "type": "fact",
+        "turns": ["What is the deepest known point in Earth's oceans located in the Mariana Trench?"],
+        "gold": ["geography__mariana_trench"],
+        "reference": "Challenger Deep",
+        "facts": [["Challenger Deep"]]
+    },
+
+    # --- 6. Technology (5 facts) ---
+    {
+        "id": "fact-tech-1",
+        "type": "fact",
+        "turns": ["When was Kubernetes v1.0 first released?"],
+        "gold": ["technology__kubernetes"],
+        "reference": "July 21, 2015",
+        "facts": [["July 21", "21 July", "2015"]]
+    },
+    {
+        "id": "fact-tech-2",
+        "type": "fact",
+        "turns": ["Who were the original designers of Kubernetes at Google?"],
+        "gold": ["technology__kubernetes"],
+        "reference": "Joe Beda, Brendan Burns, Craig McLuckie",
+        "facts": [["Beda", "Burns", "McLuckie"]]
+    },
+    {
+        "id": "fact-tech-3",
+        "type": "fact",
+        "turns": ["Who conceived the Python programming language in the late 1980s?"],
+        "gold": ["technology__python_language"],
+        "reference": "Guido van Rossum",
+        "facts": [["Guido", "van Rossum"]]
+    },
+    {
+        "id": "fact-tech-4",
+        "type": "fact",
+        "turns": ["Who proposed the relational database model in 1970?"],
+        "gold": ["technology__relational_databases"],
+        "reference": "Edgar F. Codd",
+        "facts": [["Codd", "Edgar F. Codd"]]
+    },
+    {
+        "id": "fact-tech-5",
+        "type": "fact",
+        "turns": ["Who invented the World Wide Web at CERN in 1989?"],
+        "gold": ["technology__internet_history"],
+        "reference": "Tim Berners-Lee",
+        "facts": [["Berners-Lee", "Tim Berners-Lee"]]
+    },
+
+    # --- 7. General (5 facts) ---
+    {
+        "id": "fact-gen-1",
+        "type": "fact",
+        "turns": ["Who invented the Dewey Decimal Classification system in 1876?"],
+        "gold": ["general__dewey_decimal_system"],
+        "reference": "Melvil Dewey",
+        "facts": [["Melvil Dewey", "Dewey"]]
+    },
+    {
+        "id": "fact-gen-2",
+        "type": "fact",
+        "turns": ["In what city did Johannes Gutenberg invent the movable-type printing press?"],
+        "gold": ["general__printing_press"],
+        "reference": "Mainz, Germany",
+        "facts": [["Mainz"]]
+    },
+    {
+        "id": "fact-gen-3",
+        "type": "fact",
+        "turns": ["What was Johannes Gutenberg's printed Bible masterpiece with 42 lines per page?"],
+        "gold": ["general__printing_press"],
+        "reference": "The 42-Line Bible / Gutenberg Bible",
+        "facts": [["Gutenberg Bible", "42-Line", "Bible"]]
+    },
+    {
+        "id": "fact-gen-4",
+        "type": "fact",
+        "turns": ["Which ancient research institution in Egypt housed the Great Library of Alexandria?"],
+        "gold": ["general__library_of_alexandria"],
+        "reference": "The Mouseion",
+        "facts": [["Mouseion", "Ptolemaic"]]
+    },
+    {
+        "id": "fact-gen-5",
+        "type": "fact",
+        "turns": ["Under which dynasty was the Library of Alexandria founded in the 3rd century BC?"],
+        "gold": ["general__library_of_alexandria"],
+        "reference": "Ptolemaic dynasty (Ptolemy I Soter)",
+        "facts": [["Ptolemaic", "Ptolemy"]]
+    },
+
+    # --- 8. Non-txt Formats (5 facts + 1 md already covered = 5 facts) ---
+    {
+        "id": "fact-format-csv",
+        "type": "fact",
+        "turns": ["How much protein in grams is in 100g of chicken breast according to the nutritional data?"],
+        "gold": ["food__nutritional_data"],
+        "reference": "31 grams",
+        "facts": [["31", "31g", "31.0"]]
+    },
+    {
+        "id": "fact-format-xlsx",
+        "type": "fact",
+        "turns": ["What is the chemical element symbol and atomic number of Gold in the elements table?"],
+        "gold": ["science__chemical_elements"],
+        "reference": "Symbol Au, atomic number 79",
+        "facts": [["Au"], ["79"]]
+    },
+    {
+        "id": "fact-format-pptx",
+        "type": "fact",
+        "turns": ["What cloud computing model provides virtualized computing resources over the internet?"],
+        "gold": ["technology__cloud_computing"],
+        "reference": "Infrastructure as a Service (IaaS)",
+        "facts": [["IaaS", "Infrastructure as a Service"]]
+    },
+    {
+        "id": "fact-format-docx",
+        "type": "fact",
+        "turns": ["What medical root term refers to the liver according to the terminology guide?"],
+        "gold": ["health__medical_terms"],
+        "reference": "Hepato",
+        "facts": [["hepato", "hepat"]]
+    },
+    {
+        "id": "fact-format-md",
+        "type": "fact",
+        "turns": ["What two main wheat proteins bond together when mixed with water to form gluten in bread?"],
+        "gold": ["food__bread"],
+        "reference": "Glutenin and gliadin",
+        "facts": [["glutenin"], ["gliadin"]]
+    },
+
+    # --- 9. Follow-up Conversations (4 items, multi-turn) ---
+    {
+        "id": "followup-1",
+        "type": "followup",
+        "turns": [
+            "Tell me about the Apollo 11 lunar landing mission.",
+            "Who were its astronauts?"
+        ],
+        "gold": ["history__apollo_11"],
+        "reference": "Neil Armstrong, Buzz Aldrin, Michael Collins",
+        "facts": [["Armstrong"], ["Aldrin"], ["Collins"]]
+    },
+    {
+        "id": "followup-2",
+        "type": "followup",
+        "turns": [
+            "What is Kubernetes designed for?",
+            "Who were its original engineers at Google?"
+        ],
+        "gold": ["technology__kubernetes"],
+        "reference": "Joe Beda, Brendan Burns, Craig McLuckie",
+        "facts": [["Beda", "Burns", "McLuckie"]]
+    },
+    {
+        "id": "followup-3",
+        "type": "followup",
+        "turns": [
+            "Explain the physical structure of DNA.",
+            "Which base pairs with guanine?"
+        ],
+        "gold": ["science__dna"],
+        "reference": "Cytosine (G-C)",
+        "facts": [["cytosine", "C"]]
+    },
+    {
+        "id": "followup-4",
+        "type": "followup",
+        "turns": [
+            "Tell me about Mount Everest.",
+            "Who made the first confirmed ascent to its summit?"
+        ],
+        "gold": ["geography__mount_everest"],
+        "reference": "Sir Edmund Hillary and Tenzing Norgay",
+        "facts": [["Hillary"], ["Tenzing"]]
+    },
+
+    # --- 10. Unanswerable Questions (6 items) ---
+    {
+        "id": "unans-1",
+        "type": "unanswerable",
+        "turns": ["What is the average battery life of an iPhone 16 Pro?"],
+        "gold": [],
+        "reference": "Not mentioned in the library documents",
+        "facts": []
+    },
+    {
+        "id": "unans-2",
+        "type": "unanswerable",
+        "turns": ["Who won the 2024 ICC T20 Cricket World Cup?"],
+        "gold": [],
+        "reference": "Not mentioned in the library documents",
+        "facts": []
+    },
+    {
+        "id": "unans-3",
+        "type": "unanswerable",
+        "turns": ["What is the current stock price of Tesla today?"],
+        "gold": [],
+        "reference": "Not mentioned in the library documents",
+        "facts": []
+    },
+    {
+        "id": "unans-4",
+        "type": "unanswerable",
+        "turns": ["What are the flight schedules from Tokyo to Paris on Air France next Monday?"],
+        "gold": [],
+        "reference": "Not mentioned in the library documents",
+        "facts": []
+    },
+    {
+        "id": "unans-5",
+        "type": "unanswerable",
+        "turns": ["How do I configure a Cisco Catalyst 9000 switch with OSPF routing?"],
+        "gold": [],
+        "reference": "Not mentioned in the library documents",
+        "facts": []
+    },
+    {
+        "id": "unans-6",
+        "type": "unanswerable",
+        "turns": ["Who directed the movie Inception released in 2010?"],
+        "gold": [],
+        "reference": "Not mentioned in the library documents",
+        "facts": []
+    }
+]
+
+out_file = eval_dir / "testset.json"
+out_file.write_text(json.dumps(testset, indent=2), encoding="utf-8")
+print(f"Created {out_file} with {len(testset)} test questions.")
+

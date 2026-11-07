@@ -1,0 +1,10 @@
+{
+  "search_p50_ms": 745.87,
+  "search_p95_ms": 1024.88,
+  "search_avg_ms": 789.62,
+  "concurrent_4_users": {
+    "errors": 0,
+    "average_wait_ms": 0.0,
+    "max_wait_ms": 0.02
+  }
+}

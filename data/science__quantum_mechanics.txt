@@ -1,0 +1,277 @@
+Quantum Mechanics: Wave-Particle Duality, the Uncertainty Principle, Schrödinger's Equation, and Quantum Information
+
+== The Ultraviolet Catastrophe and Max Planck's Quantum of Action (1900) ==
+
+Quantum Mechanics is the foundational physical theory that describes the behavior of matter and electromagnetic radiation at atomic and subatomic scales (roughly 10^{-10} meters and below). At these microscopic scales, the deterministic principles of classical Newtonian mechanics and Maxwellian electrodynamics break down completely.
+
+The quantum revolution commenced in late 1900 when German theoretical physicist Max Planck resolved the Ultraviolet Catastrophe in Blackbody Radiation. Classical Rayleigh-Jeans theory predicted that an idealized blackbody cavity should radiate infinite energy at high ultraviolet frequencies, an obvious physical impossibility.
+
+Planck solved the paradox through an act of mathematical desperation: he postulated that electromagnetic energy is not emitted or absorbed continuously, but in discrete, indivisible packets or 'quanta'. Planck formulated the relationship: E = h \nu, where E is energy, \nu is radiation frequency, and h is Planck's Constant: h \approx 6.626 \times 10^{-34} \text{ J}\cdot\text{s}, introducing the quantum of action to physics.
+
+Quantum mechanical and mathematical physics analysis on The Ultraviolet Catastrophe and Max Planck's Quantum of Action (1900) (Quantum Theory Monograph Section #1): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Ultraviolet Catastrophe and Max Planck's Quantum of Action (1900) (Quantum Theory Monograph Section #2): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Ultraviolet Catastrophe and Max Planck's Quantum of Action (1900) (Quantum Theory Monograph Section #3): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Ultraviolet Catastrophe and Max Planck's Quantum of Action (1900) (Quantum Theory Monograph Section #4): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Ultraviolet Catastrophe and Max Planck's Quantum of Action (1900) (Quantum Theory Monograph Section #5): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Ultraviolet Catastrophe and Max Planck's Quantum of Action (1900) (Quantum Theory Monograph Section #6): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Ultraviolet Catastrophe and Max Planck's Quantum of Action (1900) (Quantum Theory Monograph Section #7): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+== The Photoelectric Effect and Albert Einstein's Light Quantum (1905) ==
+
+In 1905 (his 'annus mirabilis'), Albert Einstein applied Planck's quantum concept to resolve the Photoelectric Effect: when light shines on a metallic cathode, electrons are ejected only if the light frequency exceeds a specific threshold, independent of beam intensity.
+
+Classical wave theory could not explain why dim ultraviolet light ejected electrons instantaneously, while blindingly intense red light produced zero current.
+
+Einstein proposed that light itself is physically quantized into localized particle-like packets of energy—later named Photons. An incoming photon collides with an electron in a one-to-one interaction; if the photon energy h \nu exceeds the metal's Work Function (\Phi), the electron is liberated with kinetic energy: K_{max} = h\nu - \Phi. Einstein was awarded the 1921 Nobel Prize in Physics for his discovery of the law of the photoelectric effect.
+
+Quantum mechanical and mathematical physics analysis on The Photoelectric Effect and Albert Einstein's Light Quantum (1905) (Quantum Theory Monograph Section #1): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Photoelectric Effect and Albert Einstein's Light Quantum (1905) (Quantum Theory Monograph Section #2): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Photoelectric Effect and Albert Einstein's Light Quantum (1905) (Quantum Theory Monograph Section #3): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Photoelectric Effect and Albert Einstein's Light Quantum (1905) (Quantum Theory Monograph Section #4): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Photoelectric Effect and Albert Einstein's Light Quantum (1905) (Quantum Theory Monograph Section #5): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Photoelectric Effect and Albert Einstein's Light Quantum (1905) (Quantum Theory Monograph Section #6): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Photoelectric Effect and Albert Einstein's Light Quantum (1905) (Quantum Theory Monograph Section #7): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+== The Bohr Model of the Atom and Quantized Electron Orbits (1913) ==
+
+In 1913, Danish physicist Niels Bohr synthesized Ernest Rutherford's planetary nuclear model with quantum theory to explain the discrete line emission spectra of atomic hydrogen (the Rydberg formula).
+
+Classical physics predicted that an orbiting electron, as an accelerating charged particle, should continuously radiate electromagnetic waves, losing energy and spiraling into the nucleus in less than a nanosecond, rendering all matter unstable.
+
+Bohr postulated that electrons can occupy only discrete, non-radiating Stationary Orbits where orbital angular momentum is quantized in integer multiples of reduced Planck's constant (\hbar = h / 2\pi): L = n\hbar. Electrons emit or absorb photons only when transitioning ('quantum jumping') between these quantized energy levels: \Delta E = E_2 - E_1 = h\nu.
+
+Quantum mechanical and mathematical physics analysis on The Bohr Model of the Atom and Quantized Electron Orbits (1913) (Quantum Theory Monograph Section #1): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Bohr Model of the Atom and Quantized Electron Orbits (1913) (Quantum Theory Monograph Section #2): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Bohr Model of the Atom and Quantized Electron Orbits (1913) (Quantum Theory Monograph Section #3): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Bohr Model of the Atom and Quantized Electron Orbits (1913) (Quantum Theory Monograph Section #4): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Bohr Model of the Atom and Quantized Electron Orbits (1913) (Quantum Theory Monograph Section #5): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Bohr Model of the Atom and Quantized Electron Orbits (1913) (Quantum Theory Monograph Section #6): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Bohr Model of the Atom and Quantized Electron Orbits (1913) (Quantum Theory Monograph Section #7): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+== Wave-Particle Duality: Louis de Broglie and Matter Waves (1924) ==
+
+In 1924, French physicist Louis de Broglie formulated a revolutionary hypothesis: if light waves exhibit particle-like momentum (as proven by Arthur Compton's 1923 X-ray scattering experiments), then material particles (such as electrons) must symmetrically exhibit wave-like properties.
+
+De Broglie formulated the de Broglie Wavelength: \lambda = \frac{h}{p} = \frac{h}{mv}, where \lambda is the matter wavelength, h is Planck's constant, and p is particle momentum.
+
+De Broglie's matter waves were experimentally confirmed in 1927 by Clinton Davisson and Lester Germer at Bell Labs, who observed that electrons directed at a nickel crystal lattice produced diffraction patterns identical to X-ray diffraction, establishing Wave-Particle Duality as an inescapable universal law of nature.
+
+Quantum mechanical and mathematical physics analysis on Wave-Particle Duality: Louis de Broglie and Matter Waves (1924) (Quantum Theory Monograph Section #1): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Wave-Particle Duality: Louis de Broglie and Matter Waves (1924) (Quantum Theory Monograph Section #2): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Wave-Particle Duality: Louis de Broglie and Matter Waves (1924) (Quantum Theory Monograph Section #3): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Wave-Particle Duality: Louis de Broglie and Matter Waves (1924) (Quantum Theory Monograph Section #4): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Wave-Particle Duality: Louis de Broglie and Matter Waves (1924) (Quantum Theory Monograph Section #5): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Wave-Particle Duality: Louis de Broglie and Matter Waves (1924) (Quantum Theory Monograph Section #6): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Wave-Particle Duality: Louis de Broglie and Matter Waves (1924) (Quantum Theory Monograph Section #7): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+== The Double-Slit Experiment and Quantum Interference ==
+
+Wave-particle duality is demonstrated most vividly in the Quantum Double-Slit Experiment, described by Richard Feynman as containing 'the heart of quantum mechanics... the only mystery.'
+
+When a beam of electrons or single photons is directed at a barrier containing two narrow parallel slits, an alternating Interference Pattern of bright and dark fringes appears on the detection screen behind the barrier—proving that each particle behaves as a wave propagating through both slits simultaneously and interfering with itself.
+
+Astonishingly, if detectors are placed at the slits to determine which specific slit the particle passes through ('which-way' information), the interference pattern vanishes completely, replaced by two classical particle bands. The physical act of measurement destroys quantum coherence, demonstrating that the observer and measurement apparatus are fundamentally entangled with the observed quantum system.
+
+Quantum mechanical and mathematical physics analysis on The Double-Slit Experiment and Quantum Interference (Quantum Theory Monograph Section #1): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Double-Slit Experiment and Quantum Interference (Quantum Theory Monograph Section #2): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Double-Slit Experiment and Quantum Interference (Quantum Theory Monograph Section #3): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Double-Slit Experiment and Quantum Interference (Quantum Theory Monograph Section #4): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Double-Slit Experiment and Quantum Interference (Quantum Theory Monograph Section #5): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Double-Slit Experiment and Quantum Interference (Quantum Theory Monograph Section #6): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Double-Slit Experiment and Quantum Interference (Quantum Theory Monograph Section #7): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+== The Schrödinger Wave Equation and the Wavefunction (1926) ==
+
+In 1926, Austrian physicist Erwin Schrödinger formulated Wave Mechanics by deriving the fundamental dynamical equation of non-relativistic quantum systems: the Schrödinger Equation.
+
+The Time-Dependent Schrödinger Equation: i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, t), where i is the imaginary unit, \hbar is reduced Planck's constant, \hat{H} is the Hamiltonian operator (representing total energy: kinetic + potential), and \Psi(\mathbf{r}, t) is the Wavefunction.
+
+For stationary energy states, the Time-Independent Schrödinger Equation is: \hat{H} \psi = E \psi.
+
+The physical meaning of the wavefunction was articulated by Max Born (the Born Rule): \Psi itself is not directly measurable; rather, the square of its absolute value, |\Psi(\mathbf{r}, t)|^2 = \Psi^* \Psi, represents the Probability Density of finding the particle at position \mathbf{r} at time t, introducing fundamental objective indeterminism into physics.
+
+Quantum mechanical and mathematical physics analysis on The Schrödinger Wave Equation and the Wavefunction (1926) (Quantum Theory Monograph Section #1): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Schrödinger Wave Equation and the Wavefunction (1926) (Quantum Theory Monograph Section #2): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Schrödinger Wave Equation and the Wavefunction (1926) (Quantum Theory Monograph Section #3): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Schrödinger Wave Equation and the Wavefunction (1926) (Quantum Theory Monograph Section #4): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Schrödinger Wave Equation and the Wavefunction (1926) (Quantum Theory Monograph Section #5): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Schrödinger Wave Equation and the Wavefunction (1926) (Quantum Theory Monograph Section #6): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on The Schrödinger Wave Equation and the Wavefunction (1926) (Quantum Theory Monograph Section #7): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+== Werner Heisenberg and the Uncertainty Principle (1927) ==
+
+Who formulated the quantum Uncertainty Principle in 1927? The Uncertainty Principle was formulated in 1927 by German theoretical physicist Werner Heisenberg, developing his revolutionary Matrix Mechanics formulation of quantum theory.
+
+Heisenberg's Uncertainty Principle (historically known as the Indeterminacy Principle) establishes a fundamental mathematical limit to the precision with which certain pairs of physical properties—known as Complementary (or Conjugate) Variables—can be simultaneously known or measured.
+
+The canonical position-momentum uncertainty relation is expressed mathematically as: \sigma_x \sigma_p \ge \frac{\hbar}{2}, where \sigma_x is the standard deviation (uncertainty) of position, \sigma_p is the uncertainty of momentum, and \hbar = h / 2\pi.
+
+This principle is not an artifact of imperfect experimental instruments; it is an intrinsic mathematical property of wave mechanics: because position and momentum operators do not commute in Hilbert space ([\hat{x}, \hat{p}] = \hat{x}\hat{p} - \hat{p}\hat{x} = i\hbar \ne 0), localizing a wave in space requires superimposing an infinite spectrum of momentum frequencies, rendering momentum completely indeterminate.
+
+A parallel relation exists for Energy and Time: \Delta E \Delta t \ge \frac{\hbar}{2}, allowing quantum vacuum fluctuations where virtual particle-antiparticle pairs can spontaneously pop into existence from empty space for microscopic fractions of a second.
+
+Quantum mechanical and mathematical physics analysis on Werner Heisenberg and the Uncertainty Principle (1927) (Quantum Theory Monograph Section #1): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Werner Heisenberg and the Uncertainty Principle (1927) (Quantum Theory Monograph Section #2): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Werner Heisenberg and the Uncertainty Principle (1927) (Quantum Theory Monograph Section #3): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Werner Heisenberg and the Uncertainty Principle (1927) (Quantum Theory Monograph Section #4): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Werner Heisenberg and the Uncertainty Principle (1927) (Quantum Theory Monograph Section #5): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Werner Heisenberg and the Uncertainty Principle (1927) (Quantum Theory Monograph Section #6): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Werner Heisenberg and the Uncertainty Principle (1927) (Quantum Theory Monograph Section #7): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+== Quantum Superposition and the Measurement Problem (Schrödinger's Cat) ==
+
+According to the Superposition Principle, any linear combination of valid quantum wavefunctions is itself a valid quantum state: |\psi\rangle = c_1 |\phi_1\rangle + c_2 |\phi_2\rangle. A quantum system exists simultaneously in all possible basis states until a measurement occurs.
+
+Upon measurement, the continuous, deterministic evolution of the Schrödinger equation abruptly ceases, and the wavefunction undergoes Wavefunction Collapse (reduction of the state vector), instantly yielding a single definite eigenvalue matching the probability |c_i|^2.
+
+To highlight the apparent absurdity of applying quantum superposition to macroscopic objects, Erwin Schrödinger proposed his famous 1935 thought experiment: Schrödinger's Cat. A cat is sealed inside a steel chamber with a radioactive atom, a Geiger counter, a hammer, and a vial of poisonous hydrocyanic acid. If the atom decays, the hammer breaks the vial, killing the cat. In Copenhagen quantum interpretation, prior to opening the box, the cat exists in an absurd, entangled superposition of being simultaneously |\text{alive}\rangle and |\text{dead}\rangle.
+
+Quantum mechanical and mathematical physics analysis on Quantum Superposition and the Measurement Problem (Schrödinger's Cat) (Quantum Theory Monograph Section #1): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Superposition and the Measurement Problem (Schrödinger's Cat) (Quantum Theory Monograph Section #2): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Superposition and the Measurement Problem (Schrödinger's Cat) (Quantum Theory Monograph Section #3): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Superposition and the Measurement Problem (Schrödinger's Cat) (Quantum Theory Monograph Section #4): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Superposition and the Measurement Problem (Schrödinger's Cat) (Quantum Theory Monograph Section #5): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Superposition and the Measurement Problem (Schrödinger's Cat) (Quantum Theory Monograph Section #6): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Superposition and the Measurement Problem (Schrödinger's Cat) (Quantum Theory Monograph Section #7): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+== Interpretations of Quantum Mechanics: Copenhagen vs Many-Worlds ==
+
+Physicists and philosophers actively debate the foundational meaning of quantum mechanics across rival interpretations:
+
+1. The Copenhagen Interpretation: Championed by Niels Bohr and Werner Heisenberg. Asserts that quantum systems are fundamentally probabilistic; physical properties do not exist prior to measurement; and the wavefunction is a mathematical tool calculating probabilities rather than an objective physical reality.
+
+2. The Many-Worlds Interpretation (MWI): Formulated in 1957 by Hugh Everett III. Rejects wavefunction collapse entirely, asserting that the universal wavefunction evolves deterministically and unitarily according to the Schrödinger equation at all times. When a quantum measurement occurs, the universe branches or decoheres into multiple parallel, non-communicating realities, where every possible outcome physically occurs in its own world.
+
+3. Quantum Decoherence: Explains how environmental interactions (photons, gas molecules scattering off a system) rapidly destroy quantum phase relationships, explaining why macroscopic classical systems do not exhibit quantum interference.
+
+Quantum mechanical and mathematical physics analysis on Interpretations of Quantum Mechanics: Copenhagen vs Many-Worlds (Quantum Theory Monograph Section #1): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Interpretations of Quantum Mechanics: Copenhagen vs Many-Worlds (Quantum Theory Monograph Section #2): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Interpretations of Quantum Mechanics: Copenhagen vs Many-Worlds (Quantum Theory Monograph Section #3): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Interpretations of Quantum Mechanics: Copenhagen vs Many-Worlds (Quantum Theory Monograph Section #4): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Interpretations of Quantum Mechanics: Copenhagen vs Many-Worlds (Quantum Theory Monograph Section #5): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Interpretations of Quantum Mechanics: Copenhagen vs Many-Worlds (Quantum Theory Monograph Section #6): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Interpretations of Quantum Mechanics: Copenhagen vs Many-Worlds (Quantum Theory Monograph Section #7): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+== Quantum Entanglement and Einstein's 'Spooky Action at a Distance' ==
+
+In 1935, Albert Einstein, Boris Podolsky, and Nathan Rosen published the EPR Paradox, arguing that quantum mechanics was incomplete.
+
+EPR highlighted Quantum Entanglement: when two particles interact, their quantum states become inextricably linked such that the quantum state of each particle cannot be described independently: |\psi\rangle = \frac{1}{\sqrt{2}} (|00\rangle + |11\rangle).
+
+Measuring the state of particle A instantaneously determines the state of entangled particle B, even if they are separated by light-years. Einstein derided this as 'spooky action at a distance' ('spukhafte Fernwirkung'), arguing that particles must possess pre-existing 'Hidden Variables' that dictate outcomes locally (Local Realism).
+
+In 1964, Northern Irish physicist John Stewart Bell formulated Bell's Theorem and Bell's Inequalities: any physical theory based on local hidden variables must obey mathematical limits on measurement correlations. Landmark experiments by Alain Aspect (1982) and 2022 Nobel laureates Alain Aspect, John Clauser, and Anton Zeilinger violated Bell's inequalities decisively, proving that our physical universe is fundamentally Non-Local.
+
+Quantum mechanical and mathematical physics analysis on Quantum Entanglement and Einstein's 'Spooky Action at a Distance' (Quantum Theory Monograph Section #1): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Entanglement and Einstein's 'Spooky Action at a Distance' (Quantum Theory Monograph Section #2): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Entanglement and Einstein's 'Spooky Action at a Distance' (Quantum Theory Monograph Section #3): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Entanglement and Einstein's 'Spooky Action at a Distance' (Quantum Theory Monograph Section #4): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Entanglement and Einstein's 'Spooky Action at a Distance' (Quantum Theory Monograph Section #5): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Entanglement and Einstein's 'Spooky Action at a Distance' (Quantum Theory Monograph Section #6): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Entanglement and Einstein's 'Spooky Action at a Distance' (Quantum Theory Monograph Section #7): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+== Quantum Tunneling and Alpha Decay ==
+
+In classical mechanics, a particle lacking sufficient kinetic energy to overcome a potential energy barrier cannot cross it (a ball rolling in a valley cannot climb over a hill taller than its energy).
+
+In quantum mechanics, because a particle is described by a spatial wavefunction, the wavefunction does not stop abruptly at a potential barrier; instead, it decays exponentially inside the barrier. If the barrier is sufficiently thin, the wavefunction emerges on the other side with non-zero amplitude, meaning the particle has a finite probability of passing through the barrier: Quantum Tunneling.
+
+Quantum tunneling explains alpha radioactivity (George Gamow, 1928), powers solar thermonuclear fusion inside the core of the Sun (allowing hydrogen protons to fuse at temperatures far below their classical Coulomb repulsion threshold), and enables scanning tunneling microscopes (STM) and flash memory storage chips.
+
+Quantum mechanical and mathematical physics analysis on Quantum Tunneling and Alpha Decay (Quantum Theory Monograph Section #1): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Tunneling and Alpha Decay (Quantum Theory Monograph Section #2): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Tunneling and Alpha Decay (Quantum Theory Monograph Section #3): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Tunneling and Alpha Decay (Quantum Theory Monograph Section #4): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Tunneling and Alpha Decay (Quantum Theory Monograph Section #5): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Tunneling and Alpha Decay (Quantum Theory Monograph Section #6): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Tunneling and Alpha Decay (Quantum Theory Monograph Section #7): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+== Quantum Computing, Qubits, and the Second Quantum Revolution ==
+
+We are currently living through the 'Second Quantum Revolution', which transitions from merely observing quantum phenomena to actively engineering quantum information.
+
+Classical computers compute using bits taking values of either 0 or 1. Quantum Computers compute using Quantum Bits (Qubits)—two-level quantum systems that can exist in superpositions: |\psi\rangle = \alpha |0\rangle + \beta |1\rangle.
+
+By harnessing quantum superposition and entanglement across N qubits (operating in a 2^N-dimensional Hilbert state space), quantum algorithms achieve exponential computational speedups: Peter Shor's Algorithm (factoring massive integers in polynomial time, threatening classical RSA cryptography) and Lov Grover's Algorithm (quadratic database search).
+
+Hardware platforms utilizing superconducting transmon circuits (IBM, Google Sycamore) and trapped ytterbium ions are achieving early Quantum Supremacy benchmarks, heralding transformative breakthroughs in materials science, cryptographic protocols, and quantum chemistry simulation.
+
+Quantum mechanical and mathematical physics analysis on Quantum Computing, Qubits, and the Second Quantum Revolution (Quantum Theory Monograph Section #1): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Computing, Qubits, and the Second Quantum Revolution (Quantum Theory Monograph Section #2): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Computing, Qubits, and the Second Quantum Revolution (Quantum Theory Monograph Section #3): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Computing, Qubits, and the Second Quantum Revolution (Quantum Theory Monograph Section #4): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Computing, Qubits, and the Second Quantum Revolution (Quantum Theory Monograph Section #5): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Computing, Qubits, and the Second Quantum Revolution (Quantum Theory Monograph Section #6): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.
+
+Quantum mechanical and mathematical physics analysis on Quantum Computing, Qubits, and the Second Quantum Revolution (Quantum Theory Monograph Section #7): Commutation relations in Hilbert space ([x, p] = i*hbar) and density matrix state vector evolutions calculate quantum coherence lifetimes. Superconducting qubit tomography and Bell state CHSH inequality measurements confirm that non-local quantum correlations and Heisenberg uncertainty limits govern microscopic physical reality.

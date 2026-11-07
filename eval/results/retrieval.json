@@ -1,0 +1,694 @@
+{
+  "evaluated_questions": 44,
+  "hit@1": 100.0,
+  "hit@3": 100.0,
+  "hit@5": 100.0,
+  "hit@10": 100.0,
+  "mrr": 1.0,
+  "details": [
+    {
+      "id": "fact-hist-1",
+      "query": "When did Apollo 11 land on the Moon?",
+      "gold": [
+        "history__apollo_11"
+      ],
+      "retrieved": [
+        "history__apollo_11",
+        "history__apollo_11",
+        "history__apollo_11",
+        "history__apollo_11",
+        "history__apollo_11",
+        "history__apollo_11",
+        "history__apollo_11"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-hist-2",
+      "query": "Who flew the Apollo 11 Command Module Columbia in orbit?",
+      "gold": [
+        "history__apollo_11"
+      ],
+      "retrieved": [
+        "history__apollo_11",
+        "history__apollo_11",
+        "history__apollo_11",
+        "history__apollo_11",
+        "history__apollo_11",
+        "history__apollo_11"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-hist-3",
+      "query": "Who was the first Roman Emperor granted the title Augustus?",
+      "gold": [
+        "history__roman_empire"
+      ],
+      "retrieved": [
+        "history__roman_empire",
+        "history__roman_empire"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-hist-4",
+      "query": "What type of wooden vessel characterized Viking maritime mobility?",
+      "gold": [
+        "history__vikings"
+      ],
+      "retrieved": [
+        "history__vikings"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-hist-5",
+      "query": "Who developed the steam engine in 1776 that powered the Industrial Revolution?",
+      "gold": [
+        "history__industrial_revolution"
+      ],
+      "retrieved": [
+        "history__industrial_revolution"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-sci-1",
+      "query": "Who discovered the molecular double helix structure of DNA in 1953?",
+      "gold": [
+        "science__dna"
+      ],
+      "retrieved": [
+        "science__dna"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-sci-2",
+      "query": "What base does adenine always pair with in DNA?",
+      "gold": [
+        "science__dna"
+      ],
+      "retrieved": [
+        "science__dna"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-sci-3",
+      "query": "What instrument is used to record seismic waves during an earthquake?",
+      "gold": [
+        "science__earthquakes"
+      ],
+      "retrieved": [
+        "science__earthquakes"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-sci-4",
+      "query": "What cellular organelle houses the chlorophyll used in photosynthesis?",
+      "gold": [
+        "science__photosynthesis"
+      ],
+      "retrieved": [
+        "science__photosynthesis",
+        "science__photosynthesis"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-sci-5",
+      "query": "Who formulated the quantum Uncertainty Principle in 1927?",
+      "gold": [
+        "science__quantum_mechanics"
+      ],
+      "retrieved": [
+        "science__quantum_mechanics",
+        "science__quantum_mechanics"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-food-1",
+      "query": "Where were potatoes first domesticated between 8000 and 5000 BC?",
+      "gold": [
+        "food__potato"
+      ],
+      "retrieved": [
+        "food__potato"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-food-2",
+      "query": "What botanical nightshade family do potatoes belong to?",
+      "gold": [
+        "food__potato"
+      ],
+      "retrieved": [
+        "food__potato",
+        "food__potato"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-food-3",
+      "query": "What are the four traditional ingredients used in beer brewing?",
+      "gold": [
+        "food__beer"
+      ],
+      "retrieved": [
+        "food__beer",
+        "food__beer",
+        "food__beer"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-food-4",
+      "query": "Where did coffee drinking originate in the 15th century?",
+      "gold": [
+        "food__coffee"
+      ],
+      "retrieved": [
+        "food__coffee"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-food-5",
+      "query": "What tree produces cacao beans used to make chocolate?",
+      "gold": [
+        "food__chocolate"
+      ],
+      "retrieved": [
+        "food__chocolate",
+        "food__chocolate",
+        "food__chocolate",
+        "food__chocolate"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-health-1",
+      "query": "What neurotransmitter receptors does caffeine antagonize in the brain?",
+      "gold": [
+        "health__caffeine"
+      ],
+      "retrieved": [
+        "health__caffeine",
+        "health__caffeine",
+        "health__neuroscience_and_brain_plasticity",
+        "health__caffeine"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-health-2",
+      "query": "What hormone is synthesized by the pineal gland in response to darkness to promote sleep?",
+      "gold": [
+        "health__sleep_hygiene"
+      ],
+      "retrieved": [
+        "health__sleep_hygiene"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-health-3",
+      "query": "How many chambers are there in the human heart?",
+      "gold": [
+        "health__cardiovascular_system"
+      ],
+      "retrieved": [
+        "health__cardiovascular_system"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-health-4",
+      "query": "Where do T lymphocytes mature in the human body?",
+      "gold": [
+        "health__immune_system"
+      ],
+      "retrieved": [
+        "health__immune_system",
+        "health__immune_system",
+        "health__immune_system"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-health-5",
+      "query": "How much metabolic energy per gram do carbohydrates and proteins provide?",
+      "gold": [
+        "health__nutrition_basics"
+      ],
+      "retrieved": [
+        "health__nutrition_basics",
+        "health__nutrition_basics",
+        "food__nutritional_data"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-geo-1",
+      "query": "What is the official summit elevation of Mount Everest as remeasured in 2020?",
+      "gold": [
+        "geography__mount_everest"
+      ],
+      "retrieved": [
+        "geography__mount_everest"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-geo-2",
+      "query": "Who achieved the first confirmed successful summit ascent of Mount Everest in May 1953?",
+      "gold": [
+        "geography__mount_everest"
+      ],
+      "retrieved": [
+        "geography__mount_everest"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-geo-3",
+      "query": "Which river discharges roughly 20 percent of total riverine water into global oceans?",
+      "gold": [
+        "geography__amazon_river"
+      ],
+      "retrieved": [
+        "geography__amazon_river",
+        "geography__amazon_river"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-geo-4",
+      "query": "What percentage of the Sahara Desert is covered by sand seas (ergs)?",
+      "gold": [
+        "geography__sahara_desert"
+      ],
+      "retrieved": [
+        "geography__sahara_desert"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-geo-5",
+      "query": "What is the deepest known point in Earth's oceans located in the Mariana Trench?",
+      "gold": [
+        "geography__mariana_trench"
+      ],
+      "retrieved": [
+        "geography__mariana_trench",
+        "geography__mariana_trench",
+        "geography__mariana_trench",
+        "geography__mariana_trench",
+        "geography__mariana_trench"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-tech-1",
+      "query": "When was Kubernetes v1.0 first released?",
+      "gold": [
+        "technology__kubernetes"
+      ],
+      "retrieved": [
+        "technology__kubernetes"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-tech-2",
+      "query": "Who were the original designers of Kubernetes at Google?",
+      "gold": [
+        "technology__kubernetes"
+      ],
+      "retrieved": [
+        "technology__kubernetes"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-tech-3",
+      "query": "Who conceived the Python programming language in the late 1980s?",
+      "gold": [
+        "technology__python_language"
+      ],
+      "retrieved": [
+        "technology__python_language"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-tech-4",
+      "query": "Who proposed the relational database model in 1970?",
+      "gold": [
+        "technology__relational_databases"
+      ],
+      "retrieved": [
+        "technology__relational_databases",
+        "technology__relational_databases"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-tech-5",
+      "query": "Who invented the World Wide Web at CERN in 1989?",
+      "gold": [
+        "technology__internet_history"
+      ],
+      "retrieved": [
+        "technology__internet_history"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-gen-1",
+      "query": "Who invented the Dewey Decimal Classification system in 1876?",
+      "gold": [
+        "general__dewey_decimal_system"
+      ],
+      "retrieved": [
+        "general__dewey_decimal_system",
+        "general__dewey_decimal_system",
+        "general__dewey_decimal_system",
+        "general__dewey_decimal_system"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-gen-2",
+      "query": "In what city did Johannes Gutenberg invent the movable-type printing press?",
+      "gold": [
+        "general__printing_press"
+      ],
+      "retrieved": [
+        "general__printing_press",
+        "general__printing_press",
+        "general__printing_press",
+        "general__printing_press",
+        "general__printing_press",
+        "general__printing_press",
+        "general__printing_press"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-gen-3",
+      "query": "What was Johannes Gutenberg's printed Bible masterpiece with 42 lines per page?",
+      "gold": [
+        "general__printing_press"
+      ],
+      "retrieved": [
+        "general__printing_press",
+        "general__printing_press",
+        "general__printing_press"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-gen-4",
+      "query": "Which ancient research institution in Egypt housed the Great Library of Alexandria?",
+      "gold": [
+        "general__library_of_alexandria"
+      ],
+      "retrieved": [
+        "general__library_of_alexandria",
+        "general__library_of_alexandria",
+        "general__library_of_alexandria",
+        "general__library_of_alexandria",
+        "general__library_of_alexandria",
+        "general__library_of_alexandria",
+        "general__library_of_alexandria"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-gen-5",
+      "query": "Under which dynasty was the Library of Alexandria founded in the 3rd century BC?",
+      "gold": [
+        "general__library_of_alexandria"
+      ],
+      "retrieved": [
+        "general__library_of_alexandria",
+        "general__library_of_alexandria"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-format-csv",
+      "query": "How much protein in grams is in 100g of chicken breast according to the nutritional data?",
+      "gold": [
+        "food__nutritional_data"
+      ],
+      "retrieved": [
+        "food__nutritional_data",
+        "food__nutritional_data"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-format-xlsx",
+      "query": "What is the chemical element symbol and atomic number of Gold in the elements table?",
+      "gold": [
+        "science__chemical_elements"
+      ],
+      "retrieved": [
+        "science__chemical_elements",
+        "science__chemical_elements",
+        "science__chemical_elements"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-format-pptx",
+      "query": "What cloud computing model provides virtualized computing resources over the internet?",
+      "gold": [
+        "technology__cloud_computing"
+      ],
+      "retrieved": [
+        "technology__cloud_computing"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-format-docx",
+      "query": "What medical root term refers to the liver according to the terminology guide?",
+      "gold": [
+        "health__medical_terms"
+      ],
+      "retrieved": [
+        "health__medical_terms"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "fact-format-md",
+      "query": "What two main wheat proteins bond together when mixed with water to form gluten in bread?",
+      "gold": [
+        "food__bread"
+      ],
+      "retrieved": [
+        "food__bread"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "followup-1",
+      "query": "Who were its astronauts?",
+      "gold": [
+        "history__apollo_11"
+      ],
+      "retrieved": [
+        "history__apollo_11",
+        "history__apollo_11",
+        "history__apollo_11",
+        "history__apollo_11",
+        "history__apollo_11",
+        "history__apollo_11",
+        "history__apollo_11",
+        "history__apollo_11",
+        "history__apollo_11",
+        "history__apollo_11"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "followup-2",
+      "query": "Who were its original engineers at Google?",
+      "gold": [
+        "technology__kubernetes"
+      ],
+      "retrieved": [
+        "technology__kubernetes"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "followup-3",
+      "query": "Which base pairs with guanine?",
+      "gold": [
+        "science__dna"
+      ],
+      "retrieved": [
+        "science__dna",
+        "science__dna",
+        "science__dna",
+        "science__dna",
+        "science__dna"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    },
+    {
+      "id": "followup-4",
+      "query": "Who made the first confirmed ascent to its summit?",
+      "gold": [
+        "geography__mount_everest"
+      ],
+      "retrieved": [
+        "geography__mount_everest",
+        "geography__mount_everest"
+      ],
+      "mrr": 1.0,
+      "hit@1": true,
+      "hit@5": true,
+      "hit@10": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Large Local Databases (generated from data/ folder)
+chromaDB/
+users.db
+userdata.db
+
+# Node & Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Environment secrets (users must set in cloud dashboard)
+backend/.env
+
+# Temporary artifacts
+*.tmp
+
