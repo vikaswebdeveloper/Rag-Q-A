@@ -93,10 +93,10 @@
   --color-warning: var(--warning);
   --color-chart: var(--chart);
   --color-ink: #1d2433;
-  --font-sans: var(--font-inter);
-  --font-serif: var(--font-source-serif);
-  --font-display: var(--font-cormorant);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-inter, "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif);
+  --font-serif: var(--font-source-serif, "Source Serif 4", Georgia, serif);
+  --font-display: var(--font-cormorant, "Cormorant Garamond", Georgia, serif);
+  --font-mono: var(--font-geist-mono, "Geist Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace);
 }
 
 html { scroll-behavior: smooth; }
