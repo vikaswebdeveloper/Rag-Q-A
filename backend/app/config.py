@@ -43,6 +43,7 @@ class Settings(BaseSettings):
     SMTP_PASSWORD: str = ""
     SMTP_FROM: str = "RAG Q&A <no-reply@localhost>"
     SMTP_STARTTLS: bool = True
+    RESEND_API_KEY: str = ""
 
     def resolve(self, path: Path | str) -> Path:
         """Returns the path unchanged if absolute, otherwise (BackendDir / path).resolve()."""

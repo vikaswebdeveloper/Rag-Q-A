@@ -64,13 +64,39 @@ def layout(title: str, intro: str, button: str, link: str, footer: str) -> tuple
 
 
 def sendEmail(to: str, subject: str, text: str, html: str):
-    """Build EmailMessage. If SMTP_HOST is empty, save to backend/outbox/ and log link."""
+    """Send email via Resend HTTP API (works on cloud free tiers) or SMTP, fallback to outbox/log."""
     msg = EmailMessage()
     msg["Subject"] = subject
     msg["From"] = settings.SMTP_FROM
     msg["To"] = to
     msg.set_content(text)
     msg.add_alternative(html, subtype="html")
+
+    # 1. Try Resend HTTP API (Port 443 HTTPS - never blocked by Render Free Tier firewall)
+    if settings.RESEND_API_KEY.strip():
+        try:
+            import json
+            import urllib.request
+            url = "https://api.resend.com/emails"
+            headers = {
+                "Authorization": f"Bearer {settings.RESEND_API_KEY.strip()}",
+                "Content-Type": "application/json",
+            }
+            from_sender = settings.SMTP_FROM if "@" in settings.SMTP_FROM and "gmail.com" not in settings.SMTP_FROM else "RAG Q&A <onboarding@resend.dev>"
+            payload = json.dumps({
+                "from": from_sender,
+                "to": [to],
+                "subject": subject,
+                "html": html,
+                "text": text,
+            }).encode("utf-8")
+            req = urllib.request.Request(url, data=payload, headers=headers, method="POST")
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                if resp.status in (200, 201):
+                    logger.info("Sent email via Resend to %s: %s", to, subject)
+                    return
+        except Exception as e:
+            logger.error("Resend delivery failed to %s: %s", to, e)
 
     if not settings.SMTP_HOST.strip():
         outbox_dir = settings.resolve(Path("outbox"))
