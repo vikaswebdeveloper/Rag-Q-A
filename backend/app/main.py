@@ -69,22 +69,6 @@ async def lifespan(app: FastAPI):
     except Exception as e:
         logger.error("ChromaDB initialization failed: %s", e)
 
-    # Pre-load re-ranker
-    if settings.RERANK:
-        try:
-            rag.getReranker()
-            logger.info("FastEmbed cross-encoder pre-loaded.")
-        except Exception as e:
-            logger.error("Failed to load cross-encoder: %s", e)
-
-    # Pre-build keyword index
-    if settings.HYBRID:
-        try:
-            rag.getKeywordIndex()
-            logger.info("BM25 keyword index ready.")
-        except Exception as e:
-            logger.error("Failed to build keyword index: %s", e)
-
     yield
     logger.info("Shutting down RAG Q&A backend.")
 
