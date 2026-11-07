@@ -36,7 +36,22 @@ async def lifespan(app: FastAPI):
     # Initialize ChromaDB
     try:
         col = rag.getCollection()
-        logger.info("ChromaDB initialized: %d chunks found.", col.count())
+        count = col.count()
+        logger.info("ChromaDB initialized: %d chunks found.", count)
+        if count == 0:
+            logger.info("ChromaDB is empty. Launching background auto-indexer for data/ corpus...")
+            import threading
+            from main import loadDocs, createChunk, storeInChroma, DatabaseFolder, Collection, DataFolder
+            def _auto_index():
+                try:
+                    docs = loadDocs(DataFolder)
+                    chunks = createChunk(docs)
+                    storeInChroma(chunks, db_path=DatabaseFolder, collection_name=Collection, reset=True)
+                    rag.getKeywordIndex()
+                    logger.info("Auto-indexing completed: %d chunks ready.", col.count())
+                except Exception as ex:
+                    logger.error("Auto-indexing error: %s", ex)
+            threading.Thread(target=_auto_index, daemon=True).start()
     except Exception as e:
         logger.error("ChromaDB initialization failed: %s", e)
 
