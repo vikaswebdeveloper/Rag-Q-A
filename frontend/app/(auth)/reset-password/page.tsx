@@ -33,7 +33,7 @@ function ResetPasswordForm() {
       });
       setSuccess(true);
       setTimeout(() => {
-        router.push("/");
+        window.location.assign("/");
       }, 1500);
     } catch (err: any) {
       setError(err.message || "Failed to reset password. The link may have expired.");

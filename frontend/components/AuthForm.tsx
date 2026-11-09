@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import Link from "next/link";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 import { ArrowRightIcon, FileIcon } from "@/components/icons";
 import { Notice, StatusMark, buttonClass, inputClass, linkClass } from "@/components/AuthShell";
 import { ResendVerification } from "@/components/ResendVerification";
@@ -13,7 +13,6 @@ export interface AuthFormProps {
 }
 
 export function AuthForm({ mode }: AuthFormProps) {
-  const router = useRouter();
   const searchParams = useSearchParams();
   const next = searchParams.get("next");
 
@@ -64,7 +63,9 @@ export function AuthForm({ mode }: AuthFormProps) {
 
   const redirectAfterAuth = () => {
     const safeNext = next && next.startsWith("/") && !next.startsWith("//") ? next : "/";
-    router.push(safeNext);
+    // Hard navigation: avoids Next's client router cache (which may hold a stale
+    // redirect-to-/login for "/") and guarantees the new cookie is used.
+    window.location.assign(safeNext);
   };
 
   if (verificationSent) {

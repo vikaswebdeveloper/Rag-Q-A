@@ -37,7 +37,7 @@ function VerifyEmailContent() {
       .then(() => {
         setSuccess(true);
         setTimeout(() => {
-          router.push("/");
+          window.location.assign("/");
         }, 1500);
       })
       .catch((err: any) => {

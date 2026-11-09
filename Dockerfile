@@ -22,8 +22,6 @@ ENV PYTHONPATH=/app
 ENV PORT=8000
 ENV CHROMA_PATH=/app/chromaDB
 ENV DATA_DIR=/app/data
-ENV USERS_DB_URL=sqlite:////app/users.db
-ENV USERDATA_DB_URL=sqlite:////app/userdata.db
 
 EXPOSE 8000
 
