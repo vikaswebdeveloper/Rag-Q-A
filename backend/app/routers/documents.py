@@ -61,9 +61,32 @@ def _get_files_state(data_dir: Path) -> tuple[tuple[str, float], ...]:
 @lru_cache(maxsize=8)
 def _build_library(files_state: tuple[tuple[str, float], ...]) -> tuple[list[dict[str, Any]], dict[str, Path], dict[str, str]]:
     data_dir = settings.resolve(settings.DATA_DIR)
-    docs = []
+    manifest_path = Path(__file__).resolve().parent.parent / "data_manifest.json"
+
+    # Fast path: load pre-indexed catalog in 1ms without parsing 254 files sequentially
+    cached_docs = None
+    if manifest_path.exists():
+        try:
+            import json
+            with open(manifest_path, "r", encoding="utf-8") as f:
+                cached_docs = json.load(f)
+        except Exception:
+            cached_docs = None
+
     paths: dict[str, Path] = {}
     aliases: dict[str, str] = {}
+
+    if data_dir.exists():
+        for f in data_dir.iterdir():
+            if f.is_file() and f.suffix.lower() in Supported:
+                s = slugFor(f.name)
+                paths[s] = f
+                aliases[f.stem] = s
+
+    if cached_docs:
+        return cached_docs, paths, aliases
+
+    docs = []
 
     for fname, _ in files_state:
         fpath = data_dir / fname

@@ -99,4 +99,20 @@ def health():
         count = col.count()
     except Exception:
         count = 0
-    return {"status": "ok", "chunks": count}
+    
+    data_dir = settings.resolve(settings.DATA_DIR)
+    data_exists = data_dir.exists()
+    file_count = 0
+    if data_exists:
+        try:
+            file_count = len([f for f in data_dir.iterdir() if f.is_file()])
+        except Exception:
+            pass
+
+    return {
+        "status": "ok",
+        "chunks": count,
+        "data_dir": str(data_dir),
+        "data_exists": data_exists,
+        "file_count": file_count,
+    }

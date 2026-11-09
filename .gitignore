@@ -24,4 +24,5 @@ backend/.env
 
 # Temporary artifacts
 *.tmp
+*.exe
 

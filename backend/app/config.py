@@ -49,8 +49,20 @@ class Settings(BaseSettings):
         """Returns the path unchanged if absolute, otherwise (BackendDir / path).resolve()."""
         p = Path(path)
         if p.is_absolute():
-            return p
-        return (BackendDir / p).resolve()
+            resolved = p
+        else:
+            resolved = (BackendDir / p).resolve()
+
+        if not resolved.exists():
+            candidates = [
+                Path("/app") / p.name,
+                BackendDir.parent / p.name,
+                Path(".") / p.name,
+            ]
+            for c in candidates:
+                if c.exists():
+                    return c.resolve()
+        return resolved
 
 settings = Settings()
 

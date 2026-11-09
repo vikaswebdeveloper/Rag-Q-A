@@ -1,0 +1,2034 @@
+[
+  {
+    "slug": "agriculture__crop_yields_and_soil_salinization-xlsx",
+    "title": "Crop Yields And Soil Salinization",
+    "category": "agriculture",
+    "format": "xlsx",
+    "preview": "130 rows \u00d7 9 columns (Agricultural Crop Type, Global Annual Harvest (Million Metric Tons), Average Global Yield (Metric Tons/Hectare), Soil Salinity Threshold ECe (dS/m), \u2026)",
+    "words": 31484
+  },
+  {
+    "slug": "arts__baroque_architecture_and_spatial_dynamics-docx",
+    "title": "Baroque Architectural Forms, Spatial Dramaturgy, and Ecclesiastical Design",
+    "category": "arts",
+    "format": "docx",
+    "preview": "Architecture operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets provide",
+    "words": 6809
+  },
+  {
+    "slug": "arts__cinematography_visual_grammar_and_editing-docx",
+    "title": "Cinematography, Visual Grammar, Montage Theory, and Film Aesthetics",
+    "category": "arts",
+    "format": "docx",
+    "preview": "Cinema operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets provides clin",
+    "words": 6809
+  },
+  {
+    "slug": "arts__classical_renaissance_painting_and_fresco_techniques-docx",
+    "title": "Renaissance Visual Art, Fresco Painting Techniques, and Chiaroscuro Mastery",
+    "category": "arts",
+    "format": "docx",
+    "preview": "Visual Arts operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets provides",
+    "words": 7004
+  },
+  {
+    "slug": "arts__dance_choreography_spatial_geometry_and_kinesiology-pdf",
+    "title": "Choreographic Theory, Spatial Geometry, Laban Movement Analysis, and Dance Kinesiology",
+    "category": "arts",
+    "format": "pdf",
+    "preview": "Choreographic Theory, Spatial Geometry, Laban Movement Analysis, and Dance Kinesiology Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Dance The exploration of fundamental ",
+    "words": 7130
+  },
+  {
+    "slug": "arts__modernist_literature_and_narrative_stream_of_consciousness-docx",
+    "title": "Modernist Literature, Stream of Consciousness, and Narrative Fragmentation",
+    "category": "arts",
+    "format": "docx",
+    "preview": "Literature operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets provides ",
+    "words": 6809
+  },
+  {
+    "slug": "arts__photography_optics_exposure_and_chemical_emulsions-pdf",
+    "title": "Photographic Science, Optical Lens Aberrations, Exposure, and Silver Halide Emulsions",
+    "category": "arts",
+    "format": "pdf",
+    "preview": "Photographic Science, Optical Lens Aberrations, Exposure, and Silver Halide Emulsions Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Photography The exploration of fundame",
+    "words": 7132
+  },
+  {
+    "slug": "arts__sculpture_bronze_casting_and_marble_carving-pdf",
+    "title": "History of Sculpture, Lost-Wax Bronze Casting, and Classical Marble Carving",
+    "category": "arts",
+    "format": "pdf",
+    "preview": "History of Sculpture, Lost-Wax Bronze Casting, and Classical Marble Carving Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Sculpture The exploration of fundamental axiomat",
+    "words": 7131
+  },
+  {
+    "slug": "arts__symphonic_orchestration_and_counterpoint-docx",
+    "title": "Symphonic Orchestration, Polyphonic Counterpoint, and Harmonic Structure",
+    "category": "arts",
+    "format": "docx",
+    "preview": "Music operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets provides clini",
+    "words": 6809
+  },
+  {
+    "slug": "arts__theater_dramaturgy_stanislavski_method_and_staging-pdf",
+    "title": "Dramatic Arts, Theatrical Dramaturgy, Stanislavski Acting System, and Stagecraft",
+    "category": "arts",
+    "format": "pdf",
+    "preview": "Dramatic Arts, Theatrical Dramaturgy, Stanislavski Acting System, and Stagecraft Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Theater The exploration of fundamental axio",
+    "words": 7129
+  },
+  {
+    "slug": "arts__traditional_printmaking_woodcut_and_intaglio-pdf",
+    "title": "Printmaking Traditions, Relief Woodcut Engraving, Intaglio Etching, and Lithography",
+    "category": "arts",
+    "format": "pdf",
+    "preview": "Printmaking Traditions, Relief Woodcut Engraving, Intaglio Etching, and Lithography Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Printmaking The exploration of fundament",
+    "words": 7131
+  },
+  {
+    "slug": "astronomy__stellar_classifications_and_exoplanets-csv",
+    "title": "Stellar Classifications And Exoplanets",
+    "category": "astronomy",
+    "format": "csv",
+    "preview": "130 rows \u00d7 9 columns (Spectral Class / Exoplanet ID, Astrophysical Classification, Effective Temperature (Kelvin), Stellar Luminosity (Solar Units L_sun), \u2026)",
+    "words": 32559
+  },
+  {
+    "slug": "biology__bioinformatics_genome_assembly_multiple_sequence_alignment_and_blast-md",
+    "title": "Bioinformatics, De Bruijn Graph Assembly, and BLAST Sequence Alignment",
+    "category": "biology",
+    "format": "md",
+    "preview": "The field of bioinformatics, de bruijn graph assembly, and blast sequence alignment represents an essential intellectual pillar within the broader discipline of biology. Theoretical investigations acr",
+    "words": 7817
+  },
+  {
+    "slug": "biology__cell_biology_organelle_ultrastructure_and_protein_trafficking-md",
+    "title": "Cell Biology, Endomembrane Trafficking, Golgi, and Lysosomal Sorting",
+    "category": "biology",
+    "format": "md",
+    "preview": "The field of cell biology, endomembrane trafficking, golgi, and lysosomal sorting represents an essential intellectual pillar within the broader discipline of biology. Theoretical investigations acros",
+    "words": 7709
+  },
+  {
+    "slug": "biology__conservation_biology_extinction_vortices_and_habitat_connectivity",
+    "title": "Conservation Biology, Minimum Viable Population, and Corridors",
+    "category": "biology",
+    "format": "txt",
+    "preview": "The field of conservation biology, minimum viable population, and corridors represents an essential intellectual pillar within the broader discipline of biology. Theoretical investigations across cent",
+    "words": 7601
+  },
+  {
+    "slug": "biology__developmental_biology_embryogenesis_morphogen_gradients_and_hox_genes-md",
+    "title": "Developmental Biology, Embryogenesis, Morphogen Gradients, and Hox Genes",
+    "category": "biology",
+    "format": "md",
+    "preview": "The field of developmental biology, embryogenesis, morphogen gradients, and hox genes represents an essential intellectual pillar within the broader discipline of biology. Theoretical investigations a",
+    "words": 7709
+  },
+  {
+    "slug": "biology__ecology_trophic_cascades_biogeochemical_cycles_and_biomes",
+    "title": "Ecology, Keystone Predator Trophic Cascades, and Nitrogen Cycling",
+    "category": "biology",
+    "format": "txt",
+    "preview": "The field of ecology, keystone predator trophic cascades, and nitrogen cycling represents an essential intellectual pillar within the broader discipline of biology. Theoretical investigations across c",
+    "words": 7709
+  },
+  {
+    "slug": "biology__evolutionary_biology_natural_selection_speciation_and_phylogeny-md",
+    "title": "Evolutionary Biology, Allopatric Speciation, and Phylogenetic Cladistics",
+    "category": "biology",
+    "format": "md",
+    "preview": "The field of evolutionary biology, allopatric speciation, and phylogenetic cladistics represents an essential intellectual pillar within the broader discipline of biology. Theoretical investigations a",
+    "words": 7601
+  },
+  {
+    "slug": "biology__human_physiology_renal_filtration_and_acid_base_balance",
+    "title": "Renal Physiology, Glomerular Filtration Rate, and Countercurrent Multiplier",
+    "category": "biology",
+    "format": "txt",
+    "preview": "The field of renal physiology, glomerular filtration rate, and countercurrent multiplier represents an essential intellectual pillar within the broader discipline of biology. Theoretical investigation",
+    "words": 7709
+  },
+  {
+    "slug": "biology__immunology_antigen_presentation_vdj_recombination_and_antibodies",
+    "title": "Immunology, Somatic Hypermutation, V(D)J Recombination, and Cytokines",
+    "category": "biology",
+    "format": "txt",
+    "preview": "The field of immunology, somatic hypermutation, v(d)j recombination, and cytokines represents an essential intellectual pillar within the broader discipline of biology. Theoretical investigations acro",
+    "words": 7817
+  },
+  {
+    "slug": "biology__marine_biology_coral_symbiosis_hydrothermal_ecosystems_and_pelagic_zones-md",
+    "title": "Marine Biology, Abyssal Chemosynthesis, and Coral Calcification Energetics",
+    "category": "biology",
+    "format": "md",
+    "preview": "The field of marine biology, abyssal chemosynthesis, and coral calcification energetics represents an essential intellectual pillar within the broader discipline of biology. Theoretical investigations",
+    "words": 7709
+  },
+  {
+    "slug": "biology__microbiology_bacterial_conjugation_endospores_and_biofilms-md",
+    "title": "Microbiology, Horizontal Gene Transfer, Plasmids, and Bacterial Biofilms",
+    "category": "biology",
+    "format": "md",
+    "preview": "The field of microbiology, horizontal gene transfer, plasmids, and bacterial biofilms represents an essential intellectual pillar within the broader discipline of biology. Theoretical investigations a",
+    "words": 7709
+  },
+  {
+    "slug": "biology__molecular_genetics_dna_replication_transcription_and_translation",
+    "title": "Molecular Genetics, DNA Polymerase Fidelity, and Ribosomal Translation",
+    "category": "biology",
+    "format": "txt",
+    "preview": "The field of molecular genetics, dna polymerase fidelity, and ribosomal translation represents an essential intellectual pillar within the broader discipline of biology. Theoretical investigations acr",
+    "words": 7709
+  },
+  {
+    "slug": "biology__neurobiology_action_potential_generation_and_synaptic_plasticity",
+    "title": "Neurobiology, Voltage-Gated Ion Channels, and Long-Term Potentiation",
+    "category": "biology",
+    "format": "txt",
+    "preview": "The field of neurobiology, voltage-gated ion channels, and long-term potentiation represents an essential intellectual pillar within the broader discipline of biology. Theoretical investigations acros",
+    "words": 7817
+  },
+  {
+    "slug": "biology__parasitology_protozoan_life_cycles_and_host_immune_evasion",
+    "title": "Parasitology, Complex Life Cycles, Vector Transmission, and Antigenic Variation",
+    "category": "biology",
+    "format": "txt",
+    "preview": "The field of parasitology, complex life cycles, vector transmission, and antigenic variation represents an essential intellectual pillar within the broader discipline of biology. Theoretical investiga",
+    "words": 7817
+  },
+  {
+    "slug": "biology__plant_physiology_photosynthesis_calvin_cycle_and_vascular_transport-md",
+    "title": "Plant Physiology, Light Reactions, C3/C4 Photosynthesis, and Phloem Flow",
+    "category": "biology",
+    "format": "md",
+    "preview": "The field of plant physiology, light reactions, c3/c4 photosynthesis, and phloem flow represents an essential intellectual pillar within the broader discipline of biology. Theoretical investigations a",
+    "words": 7925
+  },
+  {
+    "slug": "biology__virology_viral_replication_capsid_symmetry_and_pathogenesis-md",
+    "title": "Virology, Viral Genome Packaging, Capsid Symmetry, and Viral Lysis",
+    "category": "biology",
+    "format": "md",
+    "preview": "The field of virology, viral genome packaging, capsid symmetry, and viral lysis represents an essential intellectual pillar within the broader discipline of biology. Theoretical investigations across ",
+    "words": 7817
+  },
+  {
+    "slug": "business__venture_capital_and_startup_valuation-pptx",
+    "title": "Venture Capital Deal Structuring, Startup Valuation Methodologies, and Term Sheets",
+    "category": "business",
+    "format": "pptx",
+    "preview": "Limited Partnerships and Fund Lifecycle: Institutional Limited Partners (LPs) commit capital to ten-year closed-end funds managed by General Partners (GPs) taking management fees. The Power Law Distri",
+    "words": 7490
+  },
+  {
+    "slug": "chemistry__analytical_chemistry_chromatography_and_mass_spectrometry-md",
+    "title": "Analytical Chemistry, HPLC Chromatography, and Tandem Mass Spectrometry",
+    "category": "chemistry",
+    "format": "md",
+    "preview": "The field of analytical chemistry, hplc chromatography, and tandem mass spectrometry represents an essential intellectual pillar within the broader discipline of chemistry. Theoretical investigations ",
+    "words": 7709
+  },
+  {
+    "slug": "chemistry__biochemistry_enzyme_kinetics_and_metabolic_pathways",
+    "title": "Biochemistry, Michaelis-Menten Kinetics, and Glycolytic Citric Acid Cycle",
+    "category": "chemistry",
+    "format": "txt",
+    "preview": "The field of biochemistry, michaelis-menten kinetics, and glycolytic citric acid cycle represents an essential intellectual pillar within the broader discipline of chemistry. Theoretical investigation",
+    "words": 7817
+  },
+  {
+    "slug": "chemistry__catalysis_heterogeneous_surface_adsorption_and_kinetics",
+    "title": "Catalytic Chemistry, Heterogeneous Adsorption, and Sabatier Principles",
+    "category": "chemistry",
+    "format": "txt",
+    "preview": "The field of catalytic chemistry, heterogeneous adsorption, and sabatier principles represents an essential intellectual pillar within the broader discipline of chemistry. Theoretical investigations a",
+    "words": 7601
+  },
+  {
+    "slug": "chemistry__computational_quantum_chemistry_density_functional_theory",
+    "title": "Computational Chemistry, Hartree-Fock, and Density Functional Theory",
+    "category": "chemistry",
+    "format": "txt",
+    "preview": "The field of computational chemistry, hartree-fock, and density functional theory represents an essential intellectual pillar within the broader discipline of chemistry. Theoretical investigations acr",
+    "words": 7709
+  },
+  {
+    "slug": "chemistry__electrochemistry_nernst_equation_redox_and_fuel_cells",
+    "title": "Electrochemistry, Galvanic Cells, Nernst Equation, and Fuel Cell Dynamics",
+    "category": "chemistry",
+    "format": "txt",
+    "preview": "The field of electrochemistry, galvanic cells, nernst equation, and fuel cell dynamics represents an essential intellectual pillar within the broader discipline of chemistry. Theoretical investigation",
+    "words": 7817
+  },
+  {
+    "slug": "chemistry__environmental_chemistry_stratospheric_ozone_and_greenhouse_gases",
+    "title": "Environmental Chemistry, Chlorofluorocarbon Catalysis, and Ozone Depletion",
+    "category": "chemistry",
+    "format": "txt",
+    "preview": "The field of environmental chemistry, chlorofluorocarbon catalysis, and ozone depletion represents an essential intellectual pillar within the broader discipline of chemistry. Theoretical investigatio",
+    "words": 7601
+  },
+  {
+    "slug": "chemistry__inorganic_coordination_chemistry_and_crystal_field_theory-md",
+    "title": "Inorganic Coordination Complexes, Ligand Field Theory, and Isomerism",
+    "category": "chemistry",
+    "format": "md",
+    "preview": "The field of inorganic coordination complexes, ligand field theory, and isomerism represents an essential intellectual pillar within the broader discipline of chemistry. Theoretical investigations acr",
+    "words": 7709
+  },
+  {
+    "slug": "chemistry__materials_chemistry_metal_organic_frameworks_and_zeolites",
+    "title": "Materials Chemistry, Porous Zeolites, and Metal-Organic Frameworks",
+    "category": "chemistry",
+    "format": "txt",
+    "preview": "The field of materials chemistry, porous zeolites, and metal-organic frameworks represents an essential intellectual pillar within the broader discipline of chemistry. Theoretical investigations acros",
+    "words": 7709
+  },
+  {
+    "slug": "chemistry__medicinal_chemistry_pharmacophore_modeling_and_qsar-md",
+    "title": "Medicinal Chemistry, Lipinski Rule of Five, and Pharmacophore Design",
+    "category": "chemistry",
+    "format": "md",
+    "preview": "The field of medicinal chemistry, lipinski rule of five, and pharmacophore design represents an essential intellectual pillar within the broader discipline of chemistry. Theoretical investigations acr",
+    "words": 7817
+  },
+  {
+    "slug": "chemistry__organic_reaction_mechanisms_nucleophilic_substitution_and_elimination",
+    "title": "Organic Reaction Mechanisms, SN1/SN2 Substitution, and E1/E2 Elimination",
+    "category": "chemistry",
+    "format": "txt",
+    "preview": "The field of organic reaction mechanisms, sn1/sn2 substitution, and e1/e2 elimination represents an essential intellectual pillar within the broader discipline of chemistry. Theoretical investigations",
+    "words": 7925
+  },
+  {
+    "slug": "chemistry__periodic_element_thermodynamic_properties-csv",
+    "title": "Periodic Element Thermodynamic Properties",
+    "category": "chemistry",
+    "format": "csv",
+    "preview": "130 rows \u00d7 9 columns (Element Name and Symbol, Atomic Number (Z), Standard Atomic Weight (u), Electron Configuration, \u2026)",
+    "words": 29034
+  },
+  {
+    "slug": "chemistry__physical_chemistry_chemical_kinetics_and_transition_state",
+    "title": "Physical Chemistry, Reaction Rate Laws, and Transition State Theory",
+    "category": "chemistry",
+    "format": "txt",
+    "preview": "The field of physical chemistry, reaction rate laws, and transition state theory represents an essential intellectual pillar within the broader discipline of chemistry. Theoretical investigations acro",
+    "words": 7817
+  },
+  {
+    "slug": "chemistry__polymer_chemistry_step_growth_and_chain_growth_kinetics-md",
+    "title": "Polymer Chemistry, Free Radical Chain Growth, and Glass Transition",
+    "category": "chemistry",
+    "format": "md",
+    "preview": "The field of polymer chemistry, free radical chain growth, and glass transition represents an essential intellectual pillar within the broader discipline of chemistry. Theoretical investigations acros",
+    "words": 7817
+  },
+  {
+    "slug": "chemistry__spectroscopy_nmr_infrared_and_ultraviolet_absorption-md",
+    "title": "Molecular Spectroscopy, Proton NMR Chemical Shifts, and FTIR Absorption",
+    "category": "chemistry",
+    "format": "md",
+    "preview": "The field of molecular spectroscopy, proton nmr chemical shifts, and ftir absorption represents an essential intellectual pillar within the broader discipline of chemistry. Theoretical investigations ",
+    "words": 7817
+  },
+  {
+    "slug": "chemistry__surface_chemistry_colloids_and_langmuir_isotherms-md",
+    "title": "Surface Chemistry, Micelle Formation, and Langmuir Adsorption Isotherms",
+    "category": "chemistry",
+    "format": "md",
+    "preview": "The field of surface chemistry, micelle formation, and langmuir adsorption isotherms represents an essential intellectual pillar within the broader discipline of chemistry. Theoretical investigations ",
+    "words": 7709
+  },
+  {
+    "slug": "chemistry__thermochemistry_enthalpy_gibbs_free_energy_and_spontaneity-md",
+    "title": "Thermochemistry, Enthalpy of Formation, and Gibbs Free Energy Spontaneity",
+    "category": "chemistry",
+    "format": "md",
+    "preview": "The field of thermochemistry, enthalpy of formation, and gibbs free energy spontaneity represents an essential intellectual pillar within the broader discipline of chemistry. Theoretical investigation",
+    "words": 7817
+  },
+  {
+    "slug": "economics__auction_theory_mechanism_design_and_vickrey_auctions-md",
+    "title": "Auction Theory, Revenue Equivalence, Mechanism Design, and Winner's Curse",
+    "category": "economics",
+    "format": "md",
+    "preview": "The field of auction theory, revenue equivalence, mechanism design, and winner's curse represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigation",
+    "words": 7925
+  },
+  {
+    "slug": "economics__behavioral_economics_heuristics_biases_and_prospect_theory-md",
+    "title": "Behavioral Economics, Cognitive Heuristics, Prospect Theory, and Nudge",
+    "category": "economics",
+    "format": "md",
+    "preview": "The field of behavioral economics, cognitive heuristics, prospect theory, and nudge represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigations a",
+    "words": 7709
+  },
+  {
+    "slug": "economics__central_banking_open_market_operations_and_qe",
+    "title": "Central Bank Architecture, Open Market Operations, and Quantitative Easing",
+    "category": "economics",
+    "format": "txt",
+    "preview": "The field of central bank architecture, open market operations, and quantitative easing represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigatio",
+    "words": 7817
+  },
+  {
+    "slug": "economics__cryptocurrency_blockchain_economics_and_tokenomics",
+    "title": "Cryptocurrency Economics, Consensus Protocols, and Digital Asset Valuation",
+    "category": "economics",
+    "format": "txt",
+    "preview": "The field of cryptocurrency economics, consensus protocols, and digital asset valuation represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigatio",
+    "words": 7709
+  },
+  {
+    "slug": "economics__development_economics_poverty_traps_and_institutional_quality",
+    "title": "Development Economics, Poverty Traps, Foreign Aid, and Institutional Quality",
+    "category": "economics",
+    "format": "txt",
+    "preview": "The field of development economics, poverty traps, foreign aid, and institutional quality represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigat",
+    "words": 7817
+  },
+  {
+    "slug": "economics__environmental_economics_pigouvian_taxes_and_cap_and_trade-md",
+    "title": "Environmental Economics, Pigouvian Externalities, and Cap-and-Trade",
+    "category": "economics",
+    "format": "md",
+    "preview": "The field of environmental economics, pigouvian externalities, and cap-and-trade represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigations acro",
+    "words": 7709
+  },
+  {
+    "slug": "economics__financial_markets_efficient_market_hypothesis_and_derivatives-md",
+    "title": "Financial Markets, Efficient Market Hypothesis, Options, and Swaps",
+    "category": "economics",
+    "format": "md",
+    "preview": "The field of financial markets, efficient market hypothesis, options, and swaps represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigations acros",
+    "words": 7709
+  },
+  {
+    "slug": "economics__game_theory_nash_equilibrium_and_strategic_interactions",
+    "title": "Game Theory, Non-Cooperative Games, Nash Equilibrium, and Payoffs",
+    "category": "economics",
+    "format": "txt",
+    "preview": "The field of game theory, non-cooperative games, nash equilibrium, and payoffs represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigations across",
+    "words": 7817
+  },
+  {
+    "slug": "economics__global_trade_and_tariffs-csv",
+    "title": "Global Trade And Tariffs",
+    "category": "economics",
+    "format": "csv",
+    "preview": "130 rows \u00d7 9 columns (Economy / Territory, Trade Corridor, Commodity Sector, Annual Volume (Billion USD), \u2026)",
+    "words": 31582
+  },
+  {
+    "slug": "economics__globalization_capital_mobility_and_international_monetary_system-md",
+    "title": "Global Economic Architecture, Capital Mobility, and Exchange Rate Regimes",
+    "category": "economics",
+    "format": "md",
+    "preview": "The field of global economic architecture, capital mobility, and exchange rate regimes represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigation",
+    "words": 7817
+  },
+  {
+    "slug": "economics__gross_domestic_product_and_national_accounting",
+    "title": "Gross Domestic Product Accounting, Value-Added Chains, and Deflators",
+    "category": "economics",
+    "format": "txt",
+    "preview": "The field of gross domestic product accounting, value-added chains, and deflators represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigations acr",
+    "words": 7817
+  },
+  {
+    "slug": "economics__history_of_economic_thought_adam_smith_to_modern_synthesis",
+    "title": "History of Economic Thought, Classical School, Marxism, and Austrian School",
+    "category": "economics",
+    "format": "txt",
+    "preview": "The field of history of economic thought, classical school, marxism, and austrian school represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigati",
+    "words": 7925
+  },
+  {
+    "slug": "economics__inflation_monetary_policy_and_phillips_curve-md",
+    "title": "Inflationary Dynamics, Phillips Curve Trade-offs, and Monetary Rules",
+    "category": "economics",
+    "format": "md",
+    "preview": "The field of inflationary dynamics, phillips curve trade-offs, and monetary rules represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigations acr",
+    "words": 7817
+  },
+  {
+    "slug": "economics__international_trade_theory_comparative_advantage_and_heckscher_ohlin-md",
+    "title": "International Trade Theory, Comparative Advantage, and Factor Endowments",
+    "category": "economics",
+    "format": "md",
+    "preview": "The field of international trade theory, comparative advantage, and factor endowments represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigations",
+    "words": 7709
+  },
+  {
+    "slug": "economics__keynesian_economics_aggregate_demand_and_liquidity_preference",
+    "title": "Keynesian Macroeconomics, Liquidity Preference, and Aggregate Demand",
+    "category": "economics",
+    "format": "txt",
+    "preview": "The field of keynesian macroeconomics, liquidity preference, and aggregate demand represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigations acr",
+    "words": 7601
+  },
+  {
+    "slug": "economics__labor_economics_wage_determination_and_human_capital",
+    "title": "Labor Economics, Human Capital Investment, and Search-Matching Friction",
+    "category": "economics",
+    "format": "txt",
+    "preview": "The field of labor economics, human capital investment, and search-matching friction represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigations ",
+    "words": 7817
+  },
+  {
+    "slug": "economics__macroeconomic_indicators_and_debt_metrics-xlsx",
+    "title": "Macroeconomic Indicators And Debt Metrics",
+    "category": "economics",
+    "format": "xlsx",
+    "preview": "130 rows \u00d7 9 columns (Sovereign Entity, Nominal GDP (Trillion USD), Public Debt to GDP Ratio (%), Central Bank Benchmark Rate (%), \u2026)",
+    "words": 27286
+  },
+  {
+    "slug": "economics__macroeconomics_national_income_and_fiscal_multipliers",
+    "title": "Macroeconomics, National Income Determination, and Fiscal Multipliers",
+    "category": "economics",
+    "format": "txt",
+    "preview": "The field of macroeconomics, national income determination, and fiscal multipliers represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigations ac",
+    "words": 7601
+  },
+  {
+    "slug": "economics__market_failures_externalities_asymmetric_information_and_monopoly",
+    "title": "Market Failures, Externalities, Asymmetric Information, and Natural Monopoly",
+    "category": "economics",
+    "format": "txt",
+    "preview": "The field of market failures, externalities, asymmetric information, and natural monopoly represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigat",
+    "words": 7709
+  },
+  {
+    "slug": "economics__microeconomics_consumer_theory_and_market_equilibrium-md",
+    "title": "Microeconomic Foundations, Indifference Curves, and Partial Equilibrium",
+    "category": "economics",
+    "format": "md",
+    "preview": "The field of microeconomic foundations, indifference curves, and partial equilibrium represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigations ",
+    "words": 7601
+  },
+  {
+    "slug": "economics__modern_monetary_theory_and_fiscal_policy-pptx",
+    "title": "Modern Monetary Theory, Fiscal Policy Frameworks, and Sovereign Macroeconomics",
+    "category": "economics",
+    "format": "pptx",
+    "preview": "Monetary Sovereignty Definition: A government that issues its own unpegged, floating fiat currency and borrows solely in that currency faces zero operational risk of involuntary insolvency. Taxes Driv",
+    "words": 7400
+  },
+  {
+    "slug": "economics__public_finance_taxation_theory_and_public_goods-md",
+    "title": "Public Finance, Optimal Taxation Theory, Deadweight Loss, and Public Goods",
+    "category": "economics",
+    "format": "md",
+    "preview": "The field of public finance, optimal taxation theory, deadweight loss, and public goods represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigatio",
+    "words": 7925
+  },
+  {
+    "slug": "economics__supply_and_demand_elasticity_and_market_clearing-md",
+    "title": "Price Elasticity of Demand and Supply, Market Clearing, and Surplus",
+    "category": "economics",
+    "format": "md",
+    "preview": "The field of price elasticity of demand and supply, market clearing, and surplus represents an essential intellectual pillar within the broader discipline of economics. Theoretical investigations acro",
+    "words": 7925
+  },
+  {
+    "slug": "education__higher_education_and_literacy_indices-csv",
+    "title": "Higher Education And Literacy Indices",
+    "category": "education",
+    "format": "csv",
+    "preview": "130 rows \u00d7 9 columns (Higher Education Institution / Jurisdiction, Academic Research Output (Annual Publications), Faculty-to-Student Ratio, Gross Tertiary Enrollment Ratio (%), \u2026)",
+    "words": 29740
+  },
+  {
+    "slug": "energy__nuclear_fusion_reactors_and_tokamak_physics-pptx",
+    "title": "Magnetic Confinement Fusion, Tokamak Plasma Physics, and Inertial Fusion Energy",
+    "category": "energy",
+    "format": "pptx",
+    "preview": "The Deuterium-Tritium (D-T) Reaction: Fusing deuterium and tritium nuclei to yield an alpha particle (4He) and a 14.1 MeV high-energy neutron, maximizing cross-section at 100M Kelvin. The Triple Produ",
+    "words": 7669
+  },
+  {
+    "slug": "energy__renewable_power_generation_capacities-csv",
+    "title": "Renewable Power Generation Capacities",
+    "category": "energy",
+    "format": "csv",
+    "preview": "130 rows \u00d7 9 columns (Energy Technology, Global Installed Capacity (GW), Levelized Cost of Energy ($/MWh), Capacity Factor Range (%), \u2026)",
+    "words": 33068
+  },
+  {
+    "slug": "engineering__aerospace_avionics_and_flight_control_systems-docx",
+    "title": "Aerospace Engineering, Avionics Architecture, and Flight Control Systems",
+    "category": "engineering",
+    "format": "docx",
+    "preview": "Aerospace Engineering operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenet",
+    "words": 7004
+  },
+  {
+    "slug": "engineering__autonomous_robotics_and_kinematics-docx",
+    "title": "Autonomous Robotics, Forward-Inverse Kinematics, and Sensor Fusion",
+    "category": "engineering",
+    "format": "docx",
+    "preview": "Robotics operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets provides cl",
+    "words": 6809
+  },
+  {
+    "slug": "engineering__biomedical_tissue_engineering_and_implants-pdf",
+    "title": "Biomedical Tissue Engineering, Biomaterial Scaffolds, and Orthopedic Implants",
+    "category": "engineering",
+    "format": "pdf",
+    "preview": "Biomedical Tissue Engineering, Biomaterial Scaffolds, and Orthopedic Implants Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Biomedical Engineering The exploration of fund",
+    "words": 7240
+  },
+  {
+    "slug": "engineering__chemical_process_engineering_and_reactors-docx",
+    "title": "Chemical Process Engineering, Industrial Catalysis, and Chemical Reactors",
+    "category": "engineering",
+    "format": "docx",
+    "preview": "Chemical Engineering operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets",
+    "words": 7004
+  },
+  {
+    "slug": "engineering__electrical_power_grids_and_smart_distribution-pdf",
+    "title": "High-Voltage Electrical Power Systems, Synchronous Grids, and Smart Distribution",
+    "category": "engineering",
+    "format": "pdf",
+    "preview": "High-Voltage Electrical Power Systems, Synchronous Grids, and Smart Distribution Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Electrical Engineering The exploration of f",
+    "words": 7242
+  },
+  {
+    "slug": "engineering__environmental_wastewater_treatment_and_filtration-pdf",
+    "title": "Environmental Engineering, Advanced Wastewater Treatment, and Membrane Bioreactors",
+    "category": "engineering",
+    "format": "pdf",
+    "preview": "Environmental Engineering, Advanced Wastewater Treatment, and Membrane Bioreactors Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Environmental Engineering The exploration",
+    "words": 7240
+  },
+  {
+    "slug": "engineering__materials_science_crystallography_and_alloys-pdf",
+    "title": "Materials Science, Metallurgical Crystallography, and Superalloy Microstructures",
+    "category": "engineering",
+    "format": "pdf",
+    "preview": "Materials Science, Metallurgical Crystallography, and Superalloy Microstructures Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Materials Science The exploration of fundam",
+    "words": 7239
+  },
+  {
+    "slug": "engineering__mechanical_thermodynamics_and_heat_transfer-docx",
+    "title": "Mechanical Engineering, Applied Thermodynamics, and Heat Transfer Dynamics",
+    "category": "engineering",
+    "format": "docx",
+    "preview": "Mechanical Engineering operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tene",
+    "words": 7004
+  },
+  {
+    "slug": "engineering__quantum_computing_hardware_and_qubits-pptx",
+    "title": "Quantum Computing Hardware Architectures, Qubit Technologies, and Quantum Error Correction",
+    "category": "engineering",
+    "format": "pptx",
+    "preview": "The Qubit State Vector: Quantum two-level systems described by state vectors living within complex two-dimensional Hilbert spaces represented geometrically on the Bloch sphere. Quantum Superposition a",
+    "words": 7400
+  },
+  {
+    "slug": "engineering__structural_civil_engineering_and_bridge_design-docx",
+    "title": "Structural Civil Engineering, Bridge Dynamics, and Seismic Hardening",
+    "category": "engineering",
+    "format": "docx",
+    "preview": "Structural engineering relies upon the fundamental constitutive relationships governing materials subjected to tensile, compressive, shear, and torsional loading. Hooke's law establishes the linear pr",
+    "words": 7193
+  },
+  {
+    "slug": "engineering__telecommunications_5g_and_mimo_antennas-pdf",
+    "title": "Telecommunications Engineering, Massive MIMO Antenna Arrays, and 5G Standards",
+    "category": "engineering",
+    "format": "pdf",
+    "preview": "Telecommunications Engineering, Massive MIMO Antenna Arrays, and 5G Standards Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Telecommunications The exploration of fundamen",
+    "words": 7131
+  },
+  {
+    "slug": "environment__arctic_permafrost_thawing_and_methane_release-pdf",
+    "title": "Cryospheric Science, Arctic Permafrost Thawing Dynamics, and Methane Clathrate Release",
+    "category": "environment",
+    "format": "pdf",
+    "preview": "Cryospheric Science, Arctic Permafrost Thawing Dynamics, and Methane Clathrate Release Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Cryosphere Science The exploration of",
+    "words": 7242
+  },
+  {
+    "slug": "environment__biodiversity_and_species_conservation-csv",
+    "title": "Biodiversity And Species Conservation",
+    "category": "environment",
+    "format": "csv",
+    "preview": "130 rows \u00d7 9 columns (Taxonomic Group, Ecological Biome, Threat Category (IUCN), Estimated Population Range, \u2026)",
+    "words": 32981
+  },
+  {
+    "slug": "environment__climate_change_mitigation_and_carbon_capture-pptx",
+    "title": "Climate Change Mitigation Strategies, Carbon Capture Technologies, and Decarbonization",
+    "category": "environment",
+    "format": "pptx",
+    "preview": "Cumulative Carbon Emissions Quotas: The rigorous geophysical relationship linking total cumulative anthropogenic CO2 emissions to equilibrium global mean surface temperature anomalies. The 1.5 Degree ",
+    "words": 7529
+  },
+  {
+    "slug": "environment__coastal_geomorphology_barrier_islands_and_erosion-pdf",
+    "title": "Coastal Geomorphology, Barrier Island Migration Dynamics, and Shoreline Retreat",
+    "category": "environment",
+    "format": "pdf",
+    "preview": "Coastal Geomorphology, Barrier Island Migration Dynamics, and Shoreline Retreat Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Coastal Geology The exploration of fundament",
+    "words": 7241
+  },
+  {
+    "slug": "environment__forestry_ecology_silviculture_and_wildfire_dynamics-docx",
+    "title": "Forest Ecology, Sustainable Silviculture Systems, and Wildfire Behavior",
+    "category": "environment",
+    "format": "docx",
+    "preview": "Forestry operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets provides cl",
+    "words": 6809
+  },
+  {
+    "slug": "environment__groundwater_hydrology_aquifer_recharge_and_contaminants-docx",
+    "title": "Hydrogeology, Groundwater Flow Dynamics, and Aquifer Contaminant Remediation",
+    "category": "environment",
+    "format": "docx",
+    "preview": "Hydrology operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets provides c",
+    "words": 6809
+  },
+  {
+    "slug": "environment__oceanic_acidification_and_coral_bleaching-xlsx",
+    "title": "Oceanic Acidification And Coral Bleaching",
+    "category": "environment",
+    "format": "xlsx",
+    "preview": "130 rows \u00d7 9 columns (Marine Basin / Observatory Station, Mean Surface pH Level, Total Alkalinity (umol/kg), Aragonite Saturation State (Omega), \u2026)",
+    "words": 29400
+  },
+  {
+    "slug": "food__beer-md",
+    "title": "Beer: Brewing Science, Zymurgy, Historical Evolution, and Global Styles",
+    "category": "food",
+    "format": "md",
+    "preview": "Beer is one of the oldest and most widely consumed alcoholic beverages in the world, produced through the enzymatic saccharification of starch and the biological fermentation of the resulting sugars b",
+    "words": 7550
+  },
+  {
+    "slug": "food__beer",
+    "title": "Beer: Brewing Science, Zymurgy, Historical Evolution, and Global Styles",
+    "category": "food",
+    "format": "txt",
+    "preview": "Beer is one of the oldest and most widely consumed alcoholic beverages in the world, produced through the enzymatic saccharification of starch and the biological fermentation of the resulting sugars b",
+    "words": 7550
+  },
+  {
+    "slug": "food__bread-md",
+    "title": "Bread: Food Science, Gluten Mechanics, Yeast Fermentation, and Artisan Breadmaking",
+    "category": "food",
+    "format": "md",
+    "preview": "Bread is the foundational staple food of human civilization, produced by baking a dough of flour and water, typically leavened by yeast or sourdough cultures. The central physical structure of wheat b",
+    "words": 6523
+  },
+  {
+    "slug": "food__chocolate",
+    "title": "Chocolate: Theobroma cacao, Agricultural Processing, Conching, and Polymorphic Tempering Science",
+    "category": "food",
+    "format": "txt",
+    "preview": "Chocolate is a food product derived from the seeds of the tropical tree Theobroma cacao, an evergreen tree native to the tropical rainforests of the Amazon and Orinoco river basins in Central and Sout",
+    "words": 6829
+  },
+  {
+    "slug": "food__coffee",
+    "title": "Coffee: Coffea Arabica, Agronomy, Roasting Chemistry, Extraction Kinetics, and Sensory Evaluation",
+    "category": "food",
+    "format": "txt",
+    "preview": "Coffee is one of the most widely traded agricultural commodities in the world and the ubiquitous daily caffeinated beverage of global society. The beverage is brewed from the roasted, ground seeds of ",
+    "words": 7632
+  },
+  {
+    "slug": "food__global_agricultural_science_and_soil",
+    "title": "Agricultural Science, Soil Pedogenesis, and Global Food Security",
+    "category": "food",
+    "format": "txt",
+    "preview": "Agricultural science (agronomy) is the interdisciplinary science of cultivating plants and rearing livestock for human sustenance, fiber, biofuel, and industrial raw materials. From the Neolithic revo",
+    "words": 7545
+  },
+  {
+    "slug": "food__global_food_production_metrics-csv",
+    "title": "Global Food Production Metrics",
+    "category": "food",
+    "format": "csv",
+    "preview": "70 rows \u00d7 11 columns (Commodity Name, Agricultural Classification, Leading Producer Nations, Global Annual Harvest (Million Metric Tons), \u2026)",
+    "words": 16365
+  },
+  {
+    "slug": "food__nutritional_data-csv",
+    "title": "Nutritional Data",
+    "category": "food",
+    "format": "csv",
+    "preview": "130 rows \u00d7 13 columns (Food Item, Food Category, Standard Serving Size, Calories (kcal), \u2026)",
+    "words": 19188
+  },
+  {
+    "slug": "food__potato",
+    "title": "The Potato: Solanum tuberosum, Andean Domestication, Tuber Physiology, and Global Impact",
+    "category": "food",
+    "format": "txt",
+    "preview": "The potato is a starchy, tuberous root crop from the perennial nightshade plant Solanum tuberosum. Botanically, what botanical nightshade family do potatoes belong to? Potatoes belong to the nightshad",
+    "words": 6708
+  },
+  {
+    "slug": "general__dewey_decimal_system",
+    "title": "Dewey Decimal System",
+    "category": "general",
+    "format": "txt",
+    "preview": "The Dewey Decimal Classification: Melvil Dewey, Library Classification Systems, and Information Organization In the early 19th century, American and European libraries lacked standardized, flexible cl",
+    "words": 7039
+  },
+  {
+    "slug": "general__library_of_alexandria-md",
+    "title": "Library Of Alexandria",
+    "category": "general",
+    "format": "md",
+    "preview": "The Library of Alexandria: The Mouseion, Hellenistic Scholarship, Lost Treasures, and Destruction Myths The Great Library of Alexandria, situated in the Mediterranean port city of Alexandria in northe",
+    "words": 7740
+  },
+  {
+    "slug": "general__printing_press",
+    "title": "Printing Press",
+    "category": "general",
+    "format": "txt",
+    "preview": "The Printing Press: Johannes Gutenberg, Movable Type, the Print Revolution, and the Democratization of Knowledge Prior to the mid-15th century in Europe, the production and dissemination of written te",
+    "words": 7153
+  },
+  {
+    "slug": "general__sample_bulletin-pdf",
+    "title": "International Bulletin of Information Science and Scholarly Communication",
+    "category": "general",
+    "format": "pdf",
+    "preview": "International Bulletin of Information Science and Scholarly Communication Chapter 1: Scholarly Publishing Models: Subscription, Hybrid, and Gold Open Access The dissemination of scientific research ha",
+    "words": 5499
+  },
+  {
+    "slug": "geography__amazon_river-md",
+    "title": "The Amazon River: Hydrology, Biodiversity, Geomorphology, and Basin Climatology",
+    "category": "geography",
+    "format": "md",
+    "preview": "The Amazon River in South America is the largest river in the world by discharge volume of water, and depending on measurement criteria, either the longest or second-longest river system on Earth. The",
+    "words": 6880
+  },
+  {
+    "slug": "geography__global_climate_indicators-xlsx",
+    "title": "Global Climate Indicators",
+    "category": "geography",
+    "format": "xlsx",
+    "preview": "64 rows \u00d7 13 columns (Observatory Station, Geographic Coordinates, Altitude (Meters MSL), Primary Sensor Type, \u2026)",
+    "words": 24764
+  },
+  {
+    "slug": "geography__great_barrier_reef",
+    "title": "The Great Barrier Reef: Coral Biology, Reef Geomorphology, Biodiversity, and Bleaching Crises",
+    "category": "geography",
+    "format": "txt",
+    "preview": "The Great Barrier Reef, located in the Coral Sea off the northeastern coast of Queensland, Australia, is the largest coral reef system on Earth. Spanning over 2,300 kilometers (1,400 miles) in length ",
+    "words": 6920
+  },
+  {
+    "slug": "geography__mariana_trench",
+    "title": "The Mariana Trench: Hadal Zone Oceanography, Subduction Geophysics, and Deep-Sea Extremophiles",
+    "category": "geography",
+    "format": "txt",
+    "preview": "The Mariana Trench is an oceanic trench located in the western Pacific Ocean, approximately 200 kilometers (124 miles) east of the Mariana Islands. It is the deepest known geological oceanic trench on",
+    "words": 6748
+  },
+  {
+    "slug": "geography__mount_everest",
+    "title": "Mount Everest",
+    "category": "geography",
+    "format": "txt",
+    "preview": "Mount Everest: Geology, Tectonic Uplift, Glaciology, Mountaineering History, and High-Altitude Physiology Mount Everest is the highest mountain on Earth above sea level, located in the Mahalangur Hima",
+    "words": 7386
+  },
+  {
+    "slug": "geography__oceanography_and_marine_currents-md",
+    "title": "Oceanography: Marine Circulation, Thermohaline Dynamics, Pelagic Ecosystems, and Planetary Climate",
+    "category": "geography",
+    "format": "md",
+    "preview": "The World Ocean is the interconnected body of saline water that covers approximately 70.8 percent of Earth's surface (roughly 361 million square kilometers), containing 1.332 billion cubic kilometers ",
+    "words": 7500
+  },
+  {
+    "slug": "geography__plate_tectonics_and_continental_drift-pptx",
+    "title": "Plate Tectonics, Geodynamics, Seafloor Spreading, and Orogenic Mountain Building",
+    "category": "geography",
+    "format": "pptx",
+    "preview": "Alfred Wegener's Continental Drift Hypothesis (1912): Proposing that Earth's modern continents were once united in a massive supercontinent called Pangaea before rifting apart. Paleontological and Geo",
+    "words": 7493
+  },
+  {
+    "slug": "geography__plate_tectonics_and_volcanology",
+    "title": "Plate Tectonics: Continental Drift, Mantle Convection, Seafloor Spreading, and Volcanism",
+    "category": "geography",
+    "format": "txt",
+    "preview": "Plate Tectonics is the unifying grand theory of modern geosciences, explaining the dynamic structure of Earth's lithosphere, the distribution of earthquakes, volcanoes, mountain belts, and the evoluti",
+    "words": 7382
+  },
+  {
+    "slug": "geography__sahara_desert",
+    "title": "The Sahara Desert: Geomorphology, Paleoclimatology, the African Humid Period, and Desert Ecology",
+    "category": "geography",
+    "format": "txt",
+    "preview": "The Sahara Desert is the largest hot desert in the world and the third-largest desert overall (surpassed only by the cold polar deserts of Antarctica and the Arctic). Spanning over 9.2 million square ",
+    "words": 6680
+  },
+  {
+    "slug": "geography__volcanic_eruptions_and_seismic_activity-xlsx",
+    "title": "Volcanic Eruptions And Seismic Activity",
+    "category": "geography",
+    "format": "xlsx",
+    "preview": "130 rows \u00d7 9 columns (Volcano / Seismic Rupture Zone, Geotectonic Setting & Location, Historical Peak Eruption (VEI / Magnitude), Primary Magma Chemistry / Fault Mechanism, \u2026)",
+    "words": 32882
+  },
+  {
+    "slug": "health__caffeine",
+    "title": "Caffeine: Pharmacology, Neurochemistry, Adenosine Receptor Antagonism, and Ergogenic Physiology",
+    "category": "health",
+    "format": "txt",
+    "preview": "Caffeine (1,3,7-trimethylxanthine) is a naturally occurring purine alkaloid found in the seeds, leaves, and fruits of over sixty plant species worldwide, including Coffea arabica, Camellia sinensis (t",
+    "words": 6859
+  },
+  {
+    "slug": "health__cardiovascular_system",
+    "title": "The Cardiovascular System: Hemodynamics, Cardiac Anatomy, Electrophysiology, and Vascular Biology",
+    "category": "health",
+    "format": "txt",
+    "preview": "The human cardiovascular system is an organ system comprising the heart, blood vessels (arteries, arterioles, capillaries, venules, veins), and approximately five liters of circulating blood, function",
+    "words": 7087
+  },
+  {
+    "slug": "health__global_disease_epidemiology_metrics-csv",
+    "title": "Global Disease Epidemiology Metrics",
+    "category": "health",
+    "format": "csv",
+    "preview": "130 rows \u00d7 9 columns (Pathogen / Condition, Disease Classification, Global Annual Incidence (Millions), Disability-Adjusted Life Years (DALYs M), \u2026)",
+    "words": 32962
+  },
+  {
+    "slug": "health__immune_system",
+    "title": "Immune System",
+    "category": "health",
+    "format": "txt",
+    "preview": "The Immune System: Innate Immunity, Adaptive Cellular Responses, T Lymphocyte Maturation, and Immunopathology The human immune system is a complex, decentralized physiological network of specialized c",
+    "words": 8263
+  },
+  {
+    "slug": "health__immunotherapy_and_oncology_advancements-pptx",
+    "title": "Cancer Immunotherapy Mechanisms, Cell Therapies, and Next-Generation Oncology",
+    "category": "health",
+    "format": "pptx",
+    "preview": "The Cancer Immunity Cycle: The multi-step physiological cascade from tumor antigen release to dendritic cell cross-presentation, T-cell priming, trafficking, and cytolytic lysis. The Three E's of Immu",
+    "words": 7331
+  },
+  {
+    "slug": "health__medical_terms-docx",
+    "title": "Comprehensive Medical Terminology, Clinical Lexicon, and Anatomical Etymology",
+    "category": "health",
+    "format": "docx",
+    "preview": "Medical terminology represents a specialized, standardized global lexicon derived predominantly from classical Greek and Latin linguistic foundations. Understanding the systematic morphology of medica",
+    "words": 6906
+  },
+  {
+    "slug": "health__neuroscience_and_brain_plasticity",
+    "title": "Neuroscience And Brain Plasticity",
+    "category": "health",
+    "format": "txt",
+    "preview": "Neuroscience: Cellular Electrophysiology, Synaptic Plasticity, Neurotransmitters, and Brain Networks The human nervous system is the biological communication and computational network that orchestrate",
+    "words": 7573
+  },
+  {
+    "slug": "health__nutrition_basics",
+    "title": "Nutrition Basics",
+    "category": "health",
+    "format": "txt",
+    "preview": "Nutrition Basics: Macronutrient Energetics, Micronutrient Biochemistry, Metabolism, and Dietary Guidelines Human nutrition is the biological science governing the ingestion, digestion, absorption, and",
+    "words": 8238
+  },
+  {
+    "slug": "health__sleep_hygiene-md",
+    "title": "Sleep Hygiene: Circadian Neurobiology, Melatonin, Polysomnography, and Sleep Medicine",
+    "category": "health",
+    "format": "md",
+    "preview": "Sleep is an essential, highly regulated, reversible neurobiological state characterized by perceptual disengagement from the external environment, behavioral quiescence, and profound physiological res",
+    "words": 7226
+  },
+  {
+    "slug": "history__ancient_egypt",
+    "title": "Ancient Egypt: Civilization, Pharaonic Dynasties, Religious Cosmology, and Monumental Architecture",
+    "category": "history",
+    "format": "txt",
+    "preview": "Ancient Egyptian civilization emerged along the lower reaches of the Nile River in northeast Africa, flourishing continuously from the late Paleolithic era through the Dynastic periods until the Roman",
+    "words": 5768
+  },
+  {
+    "slug": "history__apollo_11",
+    "title": "Apollo 11 Lunar Landing Mission and Saturn V Engineering Monograph",
+    "category": "history",
+    "format": "txt",
+    "preview": "Apollo 11 was the American spaceflight that first landed humans on the Moon. Commander Neil Armstrong and Lunar Module Pilot Buzz Aldrin landed the Apollo Lunar Module Eagle on July 20, 1969, at 20:17",
+    "words": 6154
+  },
+  {
+    "slug": "history__industrial_revolution",
+    "title": "Industrial Revolution",
+    "category": "history",
+    "format": "txt",
+    "preview": "The Industrial Revolution: Technological Innovation, Steam Power, Capital Accumulation, and Societal Transformation The Industrial Revolution marked the profound transition from agrarian, handicraft e",
+    "words": 5146
+  },
+  {
+    "slug": "history__roman_empire-md",
+    "title": "Roman Empire",
+    "category": "history",
+    "format": "md",
+    "preview": "The Roman Empire: Rise of the Principate, Imperial Governance, Military Legions, and Legal Institutions The transformation of Rome from a republican city-state into an autocratic Mediterranean empire ",
+    "words": 5076
+  },
+  {
+    "slug": "history__the_cold_war_and_nuclear_deterrence-pptx",
+    "title": "Cold War Geopolitics, Nuclear Deterrence Strategy, and Superpower Proxy Conflicts",
+    "category": "history",
+    "format": "pptx",
+    "preview": "Yalta and Potsdam Conferences: The geopolitical fracturing of wartime Allied cooperation and the postwar partition of Europe into democratic Western and Soviet satellite spheres. George Kennan's Long ",
+    "words": 7629
+  },
+  {
+    "slug": "history__vikings",
+    "title": "The Vikings: Norse Seafaring, Maritime Technology, Expansion, Mythology, and Historical Legacy",
+    "category": "history",
+    "format": "txt",
+    "preview": "Vikings were seafaring Norse people from southern Scandinavia (modern-day Denmark, Norway, and Sweden) who, from the late 8th to late 11th centuries (roughly AD 793 to 1066), raided, pirated, traded, ",
+    "words": 5588
+  },
+  {
+    "slug": "law__administrative_rulemaking_and_agency_deference-pdf",
+    "title": "Administrative Law, Notice-and-Comment Rulemaking, and Judicial Deference Doctrines",
+    "category": "law",
+    "format": "pdf",
+    "preview": "Administrative Law, Notice-and-Comment Rulemaking, and Judicial Deference Doctrines Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Administrative Law The exploration of fu",
+    "words": 7242
+  },
+  {
+    "slug": "law__constitutional_separation_of_powers_and_judicial_review-docx",
+    "title": "Constitutional Law, Separation of Powers, and Judicial Review Precedents",
+    "category": "law",
+    "format": "docx",
+    "preview": "Constitutional Law operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets p",
+    "words": 7004
+  },
+  {
+    "slug": "law__contract_doctrine_consideration_and_breach_remedies-pdf",
+    "title": "Contract Law Doctrines, Mutual Assent, Consideration, and Breach Remedies",
+    "category": "law",
+    "format": "pdf",
+    "preview": "Contract Law Doctrines, Mutual Assent, Consideration, and Breach Remedies Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Contract Law The exploration of fundamental axioma",
+    "words": 7241
+  },
+  {
+    "slug": "law__corporate_mergers_acquisitions_and_antitrust-docx",
+    "title": "Corporate Law, Mergers and Acquisitions, and Antitrust Regulatory Enforcement",
+    "category": "law",
+    "format": "docx",
+    "preview": "Corporate Law operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets provid",
+    "words": 7004
+  },
+  {
+    "slug": "law__criminal_justice_procedure_and_constitutional_rights-pdf",
+    "title": "Criminal Justice Jurisprudence, Procedural Due Process, and Constitutional Rights",
+    "category": "law",
+    "format": "pdf",
+    "preview": "Criminal Justice Jurisprudence, Procedural Due Process, and Constitutional Rights Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Criminal Law The exploration of fundamenta",
+    "words": 7241
+  },
+  {
+    "slug": "law__cybersecurity_law_data_privacy_and_gdpr-docx",
+    "title": "Cybersecurity Jurisprudence, Data Privacy Frameworks, and Cross-Border Compliance",
+    "category": "law",
+    "format": "docx",
+    "preview": "Cyber Law operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets provides c",
+    "words": 7004
+  },
+  {
+    "slug": "law__environmental_statutes_clean_air_and_water_acts-pdf",
+    "title": "Environmental Statutory Frameworks, Clean Air, and Water Resource Regulation",
+    "category": "law",
+    "format": "pdf",
+    "preview": "Environmental Statutory Frameworks, Clean Air, and Water Resource Regulation Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Environmental Law The exploration of fundamenta",
+    "words": 7241
+  },
+  {
+    "slug": "law__intellectual_property_patents_and_copyright-docx",
+    "title": "Intellectual Property Law, Patent Prosecution, and Copyright Jurisprudence",
+    "category": "law",
+    "format": "docx",
+    "preview": "Ip Law operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets provides clin",
+    "words": 7004
+  },
+  {
+    "slug": "law__international_humanitarian_law_and_human_rights-docx",
+    "title": "International Humanitarian Law, Geneva Conventions, and Universal Human Rights",
+    "category": "law",
+    "format": "docx",
+    "preview": "Human Rights Law operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets pro",
+    "words": 7199
+  },
+  {
+    "slug": "law__international_treaty_ratifications_and_compliance-xlsx",
+    "title": "International Treaty Ratifications And Compliance",
+    "category": "law",
+    "format": "xlsx",
+    "preview": "130 rows \u00d7 9 columns (Treaty / Convention Title, Adoption Year & Depository, State Parties (Ratifications), Primary Jurisdictional Mandate, \u2026)",
+    "words": 33536
+  },
+  {
+    "slug": "law__tort_liability_negligence_and_product_safety-pdf",
+    "title": "Tort Jurisprudence, Strict Liability, Negligence Standards, and Product Safety",
+    "category": "law",
+    "format": "pdf",
+    "preview": "Tort Jurisprudence, Strict Liability, Negligence Standards, and Product Safety Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Tort Law The exploration of fundamental axiom",
+    "words": 7239
+  },
+  {
+    "slug": "mathematics__abstract_algebra_group_theory_and_galois_theory",
+    "title": "Abstract Algebra, Group Symmetry, Field Extensions, and Galois Theory",
+    "category": "mathematics",
+    "format": "txt",
+    "preview": "The field of abstract algebra, group symmetry, field extensions, and galois theory represents an essential intellectual pillar within the broader discipline of mathematics. Theoretical investigations ",
+    "words": 7817
+  },
+  {
+    "slug": "mathematics__algebraic_topology_homology_and_fundamental_groups-md",
+    "title": "Algebraic Topology, Homology Theory, and Fundamental Groups",
+    "category": "mathematics",
+    "format": "md",
+    "preview": "The field of algebraic topology, homology theory, and fundamental groups represents an essential intellectual pillar within the broader discipline of mathematics. Theoretical investigations across cen",
+    "words": 7601
+  },
+  {
+    "slug": "mathematics__analytic_number_theory_primes_and_riemann_hypothesis",
+    "title": "Analytic Number Theory, Prime Distribution, and Riemann Zeta Function",
+    "category": "mathematics",
+    "format": "txt",
+    "preview": "The field of analytic number theory, prime distribution, and riemann zeta function represents an essential intellectual pillar within the broader discipline of mathematics. Theoretical investigations ",
+    "words": 7817
+  },
+  {
+    "slug": "mathematics__combinatorics_generating_functions_and_ramsey_theory-md",
+    "title": "Combinatorics, Generating Functions, and Ramsey Graph Theory",
+    "category": "mathematics",
+    "format": "md",
+    "preview": "The field of combinatorics, generating functions, and ramsey graph theory represents an essential intellectual pillar within the broader discipline of mathematics. Theoretical investigations across ce",
+    "words": 7601
+  },
+  {
+    "slug": "mathematics__complex_analysis_conformal_mapping_and_residue_theorem",
+    "title": "Complex Analysis, Holomorphic Functions, and Cauchy Residues",
+    "category": "mathematics",
+    "format": "txt",
+    "preview": "The field of complex analysis, holomorphic functions, and cauchy residues represents an essential intellectual pillar within the broader discipline of mathematics. Theoretical investigations across ce",
+    "words": 7601
+  },
+  {
+    "slug": "mathematics__differential_and_integral_calculus",
+    "title": "Differential and Integral Calculus, Limits, and Fundamental Theorem",
+    "category": "mathematics",
+    "format": "txt",
+    "preview": "The field of differential and integral calculus, limits, and fundamental theorem represents an essential intellectual pillar within the broader discipline of mathematics. Theoretical investigations ac",
+    "words": 7709
+  },
+  {
+    "slug": "mathematics__differential_geometry_manifolds_and_curvature",
+    "title": "Differential Geometry, Riemannian Manifolds, and Geodesic Curvature",
+    "category": "mathematics",
+    "format": "txt",
+    "preview": "The field of differential geometry, riemannian manifolds, and geodesic curvature represents an essential intellectual pillar within the broader discipline of mathematics. Theoretical investigations ac",
+    "words": 7601
+  },
+  {
+    "slug": "mathematics__dynamical_systems_bifurcation_theory_and_chaos",
+    "title": "Dynamical Systems, Attractors, Bifurcations, and Deterministic Chaos",
+    "category": "mathematics",
+    "format": "txt",
+    "preview": "The field of dynamical systems, attractors, bifurcations, and deterministic chaos represents an essential intellectual pillar within the broader discipline of mathematics. Theoretical investigations a",
+    "words": 7601
+  },
+  {
+    "slug": "mathematics__graph_theory_network_flows_and_spectral_graph_theory",
+    "title": "Graph Theory, Network Flow Algorithms, and Adjacency Spectra",
+    "category": "mathematics",
+    "format": "txt",
+    "preview": "The field of graph theory, network flow algorithms, and adjacency spectra represents an essential intellectual pillar within the broader discipline of mathematics. Theoretical investigations across ce",
+    "words": 7709
+  },
+  {
+    "slug": "mathematics__inferential_statistics_hypothesis_testing_and_anova-md",
+    "title": "Inferential Statistics, Hypothesis Testing, and Variance Analysis",
+    "category": "mathematics",
+    "format": "md",
+    "preview": "The field of inferential statistics, hypothesis testing, and variance analysis represents an essential intellectual pillar within the broader discipline of mathematics. Theoretical investigations acro",
+    "words": 7601
+  },
+  {
+    "slug": "mathematics__linear_algebra_eigenvalues_and_spectral_theory-md",
+    "title": "Linear Algebra, Vector Spaces, Eigenvalues, and Spectral Theory",
+    "category": "mathematics",
+    "format": "md",
+    "preview": "The field of linear algebra, vector spaces, eigenvalues, and spectral theory represents an essential intellectual pillar within the broader discipline of mathematics. Theoretical investigations across",
+    "words": 7709
+  },
+  {
+    "slug": "mathematics__numerical_analysis_finite_element_methods_and_error-md",
+    "title": "Numerical Methods, Finite Element Formulations, and Convergence",
+    "category": "mathematics",
+    "format": "md",
+    "preview": "The field of numerical methods, finite element formulations, and convergence represents an essential intellectual pillar within the broader discipline of mathematics. Theoretical investigations across",
+    "words": 7601
+  },
+  {
+    "slug": "mathematics__partial_differential_equations_heat_and_wave_equations-md",
+    "title": "Partial Differential Equations, Boundary Value Problems, and Waves",
+    "category": "mathematics",
+    "format": "md",
+    "preview": "The field of partial differential equations, boundary value problems, and waves represents an essential intellectual pillar within the broader discipline of mathematics. Theoretical investigations acr",
+    "words": 7709
+  },
+  {
+    "slug": "mathematics__probability_distributions_and_markov_chains",
+    "title": "Probability Theory, Continuous Distributions, and Markov Chains",
+    "category": "mathematics",
+    "format": "txt",
+    "preview": "The field of probability theory, continuous distributions, and markov chains represents an essential intellectual pillar within the broader discipline of mathematics. Theoretical investigations across",
+    "words": 7601
+  },
+  {
+    "slug": "mathematics__real_analysis_lebesgue_integration_and_measure_theory-md",
+    "title": "Real Analysis, Lebesgue Measure, and Metric Space Completeness",
+    "category": "mathematics",
+    "format": "md",
+    "preview": "The field of real analysis, lebesgue measure, and metric space completeness represents an essential intellectual pillar within the broader discipline of mathematics. Theoretical investigations across ",
+    "words": 7709
+  },
+  {
+    "slug": "medicine__clinical_cardiology_and_hemodynamics-docx",
+    "title": "Clinical Cardiology, Hemodynamic Principles, and Cardiovascular Pathology",
+    "category": "medicine",
+    "format": "docx",
+    "preview": "The human heart is an intrinsically regulated electromechanical pump governed by an autonomous specialized conduction hierarchy. The sinoatrial (SA) node, situated within the superior posterolateral w",
+    "words": 7061
+  },
+  {
+    "slug": "medicine__clinical_oncology_and_tumor_genetics-pdf",
+    "title": "Clinical Oncology, Somatic Tumor Genetics, and Precision Molecular Therapeutics",
+    "category": "medicine",
+    "format": "pdf",
+    "preview": "Clinical Oncology, Somatic Tumor Genetics, and Precision Molecular Therapeutics Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Oncology The exploration of fundamental axio",
+    "words": 7129
+  },
+  {
+    "slug": "medicine__clinical_trials_and_pharmacology_benchmarks-xlsx",
+    "title": "Clinical Trials And Pharmacology Benchmarks",
+    "category": "medicine",
+    "format": "xlsx",
+    "preview": "130 rows \u00d7 9 columns (Therapeutic Compound Code, Target Receptor / Molecular Mechanism, Therapeutic Indication, Clinical Development Phase, \u2026)",
+    "words": 30642
+  },
+  {
+    "slug": "medicine__endocrinology_and_metabolic_disorders-docx",
+    "title": "Clinical Endocrinology, Hormone Signaling Pathways, and Metabolic Homeostasis",
+    "category": "medicine",
+    "format": "docx",
+    "preview": "Endocrine homeostasis is coordinated through the hypothalamic-pituitary-end organ axes operating via ultra-short, short, and long-loop negative feedback loops. The hypothalamus synthesizes hypophysiot",
+    "words": 7020
+  },
+  {
+    "slug": "medicine__gastroenterology_and_hepatobiliary_pathology-pdf",
+    "title": "Clinical Gastroenterology, Hepatobiliary Pathology, and Endoscopic Interventions",
+    "category": "medicine",
+    "format": "pdf",
+    "preview": "Clinical Gastroenterology, Hepatobiliary Pathology, and Endoscopic Interventions Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Gastroenterology The exploration of fundame",
+    "words": 7129
+  },
+  {
+    "slug": "medicine__infectious_disease_epidemiology_and_antimicrobials-pdf",
+    "title": "Infectious Disease Surveillance, Antimicrobial Resistance, and Nosocomial Pathogens",
+    "category": "medicine",
+    "format": "pdf",
+    "preview": "Infectious Disease Surveillance, Antimicrobial Resistance, and Nosocomial Pathogens Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Infectious Disease The exploration of fu",
+    "words": 7240
+  },
+  {
+    "slug": "medicine__neurology_and_neurodegenerative_diseases-docx",
+    "title": "Clinical Neurology, Neurodegenerative Pathophysiology, and Brain Pathology",
+    "category": "medicine",
+    "format": "docx",
+    "preview": "The human central nervous system is enveloped by the meninges and shielded by the specialized microvascular blood-brain barrier (BBB). Brain capillary endothelial cells, interconnected by continuous t",
+    "words": 7028
+  },
+  {
+    "slug": "medicine__pediatric_medicine_and_neonatal_care-docx",
+    "title": "Pediatric Medicine, Neonatal Intensive Care, and Child Development",
+    "category": "medicine",
+    "format": "docx",
+    "preview": "The physiological transition from intrauterine fetal dependence to independent neonatal life requires rapid cardiopulmonary adaptations within seconds of birth. Fetal gas exchange occurs across the pl",
+    "words": 6981
+  },
+  {
+    "slug": "medicine__pulmonary_medicine_and_respiratory_mechanics-pdf",
+    "title": "Pulmonary Medicine, Respiratory Mechanics, and Critical Care Ventilation",
+    "category": "medicine",
+    "format": "pdf",
+    "preview": "Pulmonary Medicine, Respiratory Mechanics, and Critical Care Ventilation Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Pulmonology The exploration of fundamental axiomati",
+    "words": 7130
+  },
+  {
+    "slug": "philosophy__aesthetics_philosophy_of_beauty_and_sublime",
+    "title": "Aesthetics, Philosophy of Art, the Beautiful, and the Sublime",
+    "category": "philosophy",
+    "format": "txt",
+    "preview": "The field of aesthetics, philosophy of art, the beautiful, and the sublime represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations across ce",
+    "words": 7817
+  },
+  {
+    "slug": "philosophy__aristotelian_virtue_ethics_teleology_and_metaphysics",
+    "title": "Aristotelian Philosophy, Nicomachean Virtue Ethics, and Teleology",
+    "category": "philosophy",
+    "format": "txt",
+    "preview": "The field of aristotelian philosophy, nicomachean virtue ethics, and teleology represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations acros",
+    "words": 7601
+  },
+  {
+    "slug": "philosophy__buddhist_philosophy_four_noble_truths_and_dependent_origination",
+    "title": "Buddhist Philosophical Traditions, Sunyata, and Dependent Origination",
+    "category": "philosophy",
+    "format": "txt",
+    "preview": "The field of buddhist philosophical traditions, sunyata, and dependent origination represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations a",
+    "words": 7601
+  },
+  {
+    "slug": "philosophy__confucian_ethics_ren_li_and_moral_order-md",
+    "title": "Confucian Moral Philosophy, Ren, Li, and Socio-Political Harmonization",
+    "category": "philosophy",
+    "format": "md",
+    "preview": "The field of confucian moral philosophy, ren, li, and socio-political harmonization represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations ",
+    "words": 7817
+  },
+  {
+    "slug": "philosophy__epistemology_and_theory_of_knowledge",
+    "title": "Epistemology, Theory of Knowledge, and Epistemic Justification",
+    "category": "philosophy",
+    "format": "txt",
+    "preview": "The field of epistemology, theory of knowledge, and epistemic justification represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations across c",
+    "words": 7601
+  },
+  {
+    "slug": "philosophy__existentialism_absurdism_and_authenticity",
+    "title": "Existentialist Philosophy, the Absurd, and Radical Human Authenticity",
+    "category": "philosophy",
+    "format": "txt",
+    "preview": "The field of existentialist philosophy, the absurd, and radical human authenticity represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations a",
+    "words": 7709
+  },
+  {
+    "slug": "philosophy__formal_logic_propositional_calculus_and_fallacies-md",
+    "title": "Formal Logic, Propositional Calculus, Predicate Logic, and Fallacies",
+    "category": "philosophy",
+    "format": "md",
+    "preview": "The field of formal logic, propositional calculus, predicate logic, and fallacies represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations ac",
+    "words": 7709
+  },
+  {
+    "slug": "philosophy__free_will_determinism_compatibilism_and_libertarianism-md",
+    "title": "Free Will, Causal Determinism, Incompatibilism, and Moral Responsibility",
+    "category": "philosophy",
+    "format": "md",
+    "preview": "The field of free will, causal determinism, incompatibilism, and moral responsibility represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigation",
+    "words": 7709
+  },
+  {
+    "slug": "philosophy__kantian_transcendental_idealism_and_categorical_imperative",
+    "title": "Kantian Transcendental Idealism, Pure Reason, and Categorical Imperative",
+    "category": "philosophy",
+    "format": "txt",
+    "preview": "The field of kantian transcendental idealism, pure reason, and categorical imperative represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigation",
+    "words": 7709
+  },
+  {
+    "slug": "philosophy__metaphysics_ontology_and_nature_of_reality-md",
+    "title": "Metaphysics, Fundamental Ontology, and the Nature of Reality",
+    "category": "philosophy",
+    "format": "md",
+    "preview": "The field of metaphysics, fundamental ontology, and the nature of reality represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations across cen",
+    "words": 7709
+  },
+  {
+    "slug": "philosophy__nietzsche_will_to_power_genealogy_of_morals-md",
+    "title": "Nietzschean Thought, Will to Power, and the Genealogy of Morality",
+    "category": "philosophy",
+    "format": "md",
+    "preview": "The field of nietzschean thought, will to power, and the genealogy of morality represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations acros",
+    "words": 7925
+  },
+  {
+    "slug": "philosophy__normative_ethics_deontology_and_consequentialism",
+    "title": "Normative Ethics, Deontological Principles, and Consequentialism",
+    "category": "philosophy",
+    "format": "txt",
+    "preview": "The field of normative ethics, deontological principles, and consequentialism represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations across",
+    "words": 7493
+  },
+  {
+    "slug": "philosophy__phenomenology_husserl_heidegger_and_merleau_ponty-md",
+    "title": "Phenomenology, Intentionality, Being-in-the-World, and Embodiment",
+    "category": "philosophy",
+    "format": "md",
+    "preview": "The field of phenomenology, intentionality, being-in-the-world, and embodiment represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations acros",
+    "words": 7709
+  },
+  {
+    "slug": "philosophy__philosophy_of_mind_dualism_functionalism_and_qualia",
+    "title": "Philosophy of Mind, Substance Dualism, Functionalism, and Qualia",
+    "category": "philosophy",
+    "format": "txt",
+    "preview": "The field of philosophy of mind, substance dualism, functionalism, and qualia represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations across",
+    "words": 7709
+  },
+  {
+    "slug": "philosophy__philosophy_of_science_falsification_and_scientific_revolutions-md",
+    "title": "Philosophy of Science, Demarcation, Falsification, and Paradigms",
+    "category": "philosophy",
+    "format": "md",
+    "preview": "The field of philosophy of science, demarcation, falsification, and paradigms represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations across",
+    "words": 7601
+  },
+  {
+    "slug": "philosophy__platonic_dialogues_theory_of_forms_and_allegory_of_cave-md",
+    "title": "Platonic Philosophy, the Theory of Forms, and Allegory of the Cave",
+    "category": "philosophy",
+    "format": "md",
+    "preview": "The field of platonic philosophy, the theory of forms, and allegory of the cave represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations acro",
+    "words": 8033
+  },
+  {
+    "slug": "philosophy__political_philosophy_justice_and_sovereignty-md",
+    "title": "Political Philosophy, Theories of Justice, and Sovereign Authority",
+    "category": "philosophy",
+    "format": "md",
+    "preview": "The field of political philosophy, theories of justice, and sovereign authority represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations acro",
+    "words": 7709
+  },
+  {
+    "slug": "philosophy__social_contract_theory_hobbes_locke_rousseau_rawls",
+    "title": "Social Contract Theory, Leviathan Sovereignty, and Rawlsian Justice",
+    "category": "philosophy",
+    "format": "txt",
+    "preview": "The field of social contract theory, leviathan sovereignty, and rawlsian justice represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations acr",
+    "words": 7709
+  },
+  {
+    "slug": "philosophy__stoicism_epictetus_seneca_and_marcus_aurelius",
+    "title": "Stoic Philosophy, Epictetus, Seneca, and Marcus Aurelius Meditations",
+    "category": "philosophy",
+    "format": "txt",
+    "preview": "The field of stoic philosophy, epictetus, seneca, and marcus aurelius meditations represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations ac",
+    "words": 7709
+  },
+  {
+    "slug": "philosophy__utilitarianism_bentham_mill_and_preference_ethics-md",
+    "title": "Utilitarianism, Classical Benthamite Calculus, and Millian Liberty",
+    "category": "philosophy",
+    "format": "md",
+    "preview": "The field of utilitarianism, classical benthamite calculus, and millian liberty represents an essential intellectual pillar within the broader discipline of philosophy. Theoretical investigations acro",
+    "words": 7601
+  },
+  {
+    "slug": "physics__acoustic_physics_wave_propagation_and_doppler_effect",
+    "title": "Acoustic Physics, Longitudinal Sound Wave Attenuation, and Doppler Shifts",
+    "category": "physics",
+    "format": "txt",
+    "preview": "The field of acoustic physics, longitudinal sound wave attenuation, and doppler shifts represents an essential intellectual pillar within the broader discipline of physics. Theoretical investigations ",
+    "words": 7817
+  },
+  {
+    "slug": "physics__classical_and_quantum_optics_lasers_and_coherence-md",
+    "title": "Optics, Laser Physics, Optical Cavity Resonance, and Quantum Coherence",
+    "category": "physics",
+    "format": "md",
+    "preview": "The field of optics, laser physics, optical cavity resonance, and quantum coherence represents an essential intellectual pillar within the broader discipline of physics. Theoretical investigations acr",
+    "words": 7817
+  },
+  {
+    "slug": "physics__classical_mechanics_lagrangian_and_hamiltonian_dynamics-md",
+    "title": "Classical Mechanics, Lagrangian Dynamics, and Hamiltonian Mechanics",
+    "category": "physics",
+    "format": "md",
+    "preview": "The field of classical mechanics, lagrangian dynamics, and hamiltonian mechanics represents an essential intellectual pillar within the broader discipline of physics. Theoretical investigations across",
+    "words": 7601
+  },
+  {
+    "slug": "physics__condensed_matter_physics_fermi_surfaces_and_band_theory-md",
+    "title": "Condensed Matter Physics, Electronic Band Gaps, and Fermi Surfaces",
+    "category": "physics",
+    "format": "md",
+    "preview": "The field of condensed matter physics, electronic band gaps, and fermi surfaces represents an essential intellectual pillar within the broader discipline of physics. Theoretical investigations across ",
+    "words": 7817
+  },
+  {
+    "slug": "physics__electrodynamics_maxwell_equations_and_electromagnetic_waves-md",
+    "title": "Electrodynamics, Maxwell Equations, and Waveguide Propagation",
+    "category": "physics",
+    "format": "md",
+    "preview": "The field of electrodynamics, maxwell equations, and waveguide propagation represents an essential intellectual pillar within the broader discipline of physics. Theoretical investigations across centu",
+    "words": 7493
+  },
+  {
+    "slug": "physics__fluid_dynamics_navier_stokes_equations_and_turbulence",
+    "title": "Fluid Dynamics, Navier-Stokes Momentum Equations, and Reynolds Turbulence",
+    "category": "physics",
+    "format": "txt",
+    "preview": "The field of fluid dynamics, navier-stokes momentum equations, and reynolds turbulence represents an essential intellectual pillar within the broader discipline of physics. Theoretical investigations ",
+    "words": 7817
+  },
+  {
+    "slug": "physics__fundamental_physical_constants_and_measurements-xlsx",
+    "title": "Fundamental Physical Constants And Measurements",
+    "category": "physics",
+    "format": "xlsx",
+    "preview": "130 rows \u00d7 9 columns (Physical Constant Name, Standard Scientific Symbol, Numerical Value (SI Units), Standard Measurement Uncertainty, \u2026)",
+    "words": 30524
+  },
+  {
+    "slug": "physics__general_relativity_einstein_field_equations_and_black_holes-md",
+    "title": "General Relativity, Einstein Tensor Field Equations, and Gravitational Lensing",
+    "category": "physics",
+    "format": "md",
+    "preview": "The field of general relativity, einstein tensor field equations, and gravitational lensing represents an essential intellectual pillar within the broader discipline of physics. Theoretical investigat",
+    "words": 7817
+  },
+  {
+    "slug": "physics__nuclear_physics_binding_energy_fission_and_decay_modes-md",
+    "title": "Nuclear Physics, Nuclear Binding Energy, Fission, and Alpha-Beta Decay",
+    "category": "physics",
+    "format": "md",
+    "preview": "The field of nuclear physics, nuclear binding energy, fission, and alpha-beta decay represents an essential intellectual pillar within the broader discipline of physics. Theoretical investigations acr",
+    "words": 7925
+  },
+  {
+    "slug": "physics__particle_physics_standard_model_quarks_and_higgs_boson",
+    "title": "Particle Physics, Standard Model Gauge Bosons, and Higgs Mechanism",
+    "category": "physics",
+    "format": "txt",
+    "preview": "The field of particle physics, standard model gauge bosons, and higgs mechanism represents an essential intellectual pillar within the broader discipline of physics. Theoretical investigations across ",
+    "words": 7817
+  },
+  {
+    "slug": "physics__plasma_physics_magnetohydrodynamics_and_debye_shielding-md",
+    "title": "Plasma Physics, Magnetohydrodynamic Equilibrium, and Debye Length",
+    "category": "physics",
+    "format": "md",
+    "preview": "The field of plasma physics, magnetohydrodynamic equilibrium, and debye length represents an essential intellectual pillar within the broader discipline of physics. Theoretical investigations across c",
+    "words": 7601
+  },
+  {
+    "slug": "physics__quantum_field_theory_feynman_diagrams_and_renormalization-md",
+    "title": "Quantum Field Theory, Second Quantization, and Feynman Propagators",
+    "category": "physics",
+    "format": "md",
+    "preview": "The field of quantum field theory, second quantization, and feynman propagators represents an essential intellectual pillar within the broader discipline of physics. Theoretical investigations across ",
+    "words": 7709
+  },
+  {
+    "slug": "physics__quantum_mechanics_schrodinger_equation_and_hilbert_space",
+    "title": "Quantum Mechanics, Wavefunction Collapse, and Observable Operators",
+    "category": "physics",
+    "format": "txt",
+    "preview": "The field of quantum mechanics, wavefunction collapse, and observable operators represents an essential intellectual pillar within the broader discipline of physics. Theoretical investigations across ",
+    "words": 7601
+  },
+  {
+    "slug": "physics__solid_state_physics_semiconductors_and_phonons",
+    "title": "Solid State Physics, Phonon Lattice Vibrations, and P-N Junctions",
+    "category": "physics",
+    "format": "txt",
+    "preview": "The field of solid state physics, phonon lattice vibrations, and p-n junctions represents an essential intellectual pillar within the broader discipline of physics. Theoretical investigations across c",
+    "words": 7925
+  },
+  {
+    "slug": "physics__special_relativity_lorentz_transformations_and_spacetime",
+    "title": "Special Relativity, Lorentz Spacetime Invariance, and Relativistic Mass",
+    "category": "physics",
+    "format": "txt",
+    "preview": "The field of special relativity, lorentz spacetime invariance, and relativistic mass represents an essential intellectual pillar within the broader discipline of physics. Theoretical investigations ac",
+    "words": 7709
+  },
+  {
+    "slug": "physics__thermodynamics_entropy_and_carnot_cycle_efficiency",
+    "title": "Thermodynamics, Entropy Formulations, and Carnot Heat Engine Efficiency",
+    "category": "physics",
+    "format": "txt",
+    "preview": "The field of thermodynamics, entropy formulations, and carnot heat engine efficiency represents an essential intellectual pillar within the broader discipline of physics. Theoretical investigations ac",
+    "words": 7709
+  },
+  {
+    "slug": "psychology__abnormal_psychology_dsm_classifications_and_psychopathology-md",
+    "title": "Abnormal Psychology, Psychopathology Classifications, and Etiology",
+    "category": "psychology",
+    "format": "md",
+    "preview": "The field of abnormal psychology, psychopathology classifications, and etiology represents an essential intellectual pillar within the broader discipline of psychology. Theoretical investigations acro",
+    "words": 7493
+  },
+  {
+    "slug": "psychology__child_psychology_temperament_socialization_and_cognitive_growth",
+    "title": "Child Psychology, Temperament Styles, Emotional Regulation, and Play",
+    "category": "psychology",
+    "format": "txt",
+    "preview": "The field of child psychology, temperament styles, emotional regulation, and play represents an essential intellectual pillar within the broader discipline of psychology. Theoretical investigations ac",
+    "words": 7709
+  },
+  {
+    "slug": "psychology__clinical_psychology_cognitive_behavioral_therapy_and_psychotherapy-md",
+    "title": "Clinical Psychotherapy, Cognitive Behavioral Protocols, and Therapeutic Alliance",
+    "category": "psychology",
+    "format": "md",
+    "preview": "The field of clinical psychotherapy, cognitive behavioral protocols, and therapeutic alliance represents an essential intellectual pillar within the broader discipline of psychology. Theoretical inves",
+    "words": 7709
+  },
+  {
+    "slug": "psychology__cognitive_psychology_mental_schemas_and_information_processing",
+    "title": "Cognitive Psychology, Mental Schemas, Attention, and Information Processing",
+    "category": "psychology",
+    "format": "txt",
+    "preview": "The field of cognitive psychology, mental schemas, attention, and information processing represents an essential intellectual pillar within the broader discipline of psychology. Theoretical investigat",
+    "words": 7709
+  },
+  {
+    "slug": "psychology__developmental_psychology_piaget_vygotsky_and_attachment_theory-md",
+    "title": "Developmental Psychology, Cognitive Stages, Scaffolding, and Attachment",
+    "category": "psychology",
+    "format": "md",
+    "preview": "The field of developmental psychology, cognitive stages, scaffolding, and attachment represents an essential intellectual pillar within the broader discipline of psychology. Theoretical investigations",
+    "words": 7601
+  },
+  {
+    "slug": "psychology__emotion_theory_james_lange_cannon_bard_and_affective_neuroscience-md",
+    "title": "Theories of Emotion, Physiological Arousal, and Affective Neuroscience",
+    "category": "psychology",
+    "format": "md",
+    "preview": "The field of theories of emotion, physiological arousal, and affective neuroscience represents an essential intellectual pillar within the broader discipline of psychology. Theoretical investigations ",
+    "words": 7709
+  },
+  {
+    "slug": "psychology__forensic_psychology_eyewitness_testimony_and_criminal_profiling-md",
+    "title": "Forensic Psychology, Eyewitness Misinformation Effect, and Legal Competence",
+    "category": "psychology",
+    "format": "md",
+    "preview": "The field of forensic psychology, eyewitness misinformation effect, and legal competence represents an essential intellectual pillar within the broader discipline of psychology. Theoretical investigat",
+    "words": 7709
+  },
+  {
+    "slug": "psychology__health_psychology_biopsychosocial_model_and_stress_pathology",
+    "title": "Health Psychology, Psychoneuroimmunology, and Chronic Illness Management",
+    "category": "psychology",
+    "format": "txt",
+    "preview": "The field of health psychology, psychoneuroimmunology, and chronic illness management represents an essential intellectual pillar within the broader discipline of psychology. Theoretical investigation",
+    "words": 7601
+  },
+  {
+    "slug": "psychology__human_memory_encoding_storage_retrieval_and_forgetting-md",
+    "title": "Human Memory Systems, Working Memory, Consolidation, and Retrieval Cues",
+    "category": "psychology",
+    "format": "md",
+    "preview": "The field of human memory systems, working memory, consolidation, and retrieval cues represents an essential intellectual pillar within the broader discipline of psychology. Theoretical investigations",
+    "words": 7817
+  },
+  {
+    "slug": "psychology__industrial_organizational_psychology_leadership_and_ergonomics-md",
+    "title": "Industrial-Organizational Psychology, Job Satisfaction, and Organizational Culture",
+    "category": "psychology",
+    "format": "md",
+    "preview": "The field of industrial-organizational psychology, job satisfaction, and organizational culture represents an essential intellectual pillar within the broader discipline of psychology. Theoretical inv",
+    "words": 7709
+  },
+  {
+    "slug": "psychology__learning_theories_classical_conditioning_and_operant_reinforcement",
+    "title": "Behavioral Learning Theory, Operant Conditioning Schedules, and Extinction",
+    "category": "psychology",
+    "format": "txt",
+    "preview": "The field of behavioral learning theory, operant conditioning schedules, and extinction represents an essential intellectual pillar within the broader discipline of psychology. Theoretical investigati",
+    "words": 7709
+  },
+  {
+    "slug": "psychology__motivation_theory_maslow_hierarchy_and_self_determination-md",
+    "title": "Motivation Science, Intrinsic Drivers, Self-Determination, and Need Hierarchy",
+    "category": "psychology",
+    "format": "md",
+    "preview": "The field of motivation science, intrinsic drivers, self-determination, and need hierarchy represents an essential intellectual pillar within the broader discipline of psychology. Theoretical investig",
+    "words": 7817
+  },
+  {
+    "slug": "psychology__neuropsychology_brain_lateralization_and_executive_function",
+    "title": "Neuropsychology, Prefrontal Executive Control, and Hemispheric Specialization",
+    "category": "psychology",
+    "format": "txt",
+    "preview": "The field of neuropsychology, prefrontal executive control, and hemispheric specialization represents an essential intellectual pillar within the broader discipline of psychology. Theoretical investig",
+    "words": 7601
+  },
+  {
+    "slug": "psychology__personality_psychology_big_five_traits_and_psychodynamics",
+    "title": "Personality Psychology, Trait Theory, Big Five Dimensions, and Assessment",
+    "category": "psychology",
+    "format": "txt",
+    "preview": "The field of personality psychology, trait theory, big five dimensions, and assessment represents an essential intellectual pillar within the broader discipline of psychology. Theoretical investigatio",
+    "words": 7817
+  },
+  {
+    "slug": "psychology__positive_psychology_flow_state_eudaimonia_and_resilience",
+    "title": "Positive Psychology, Optimal Flow States, Character Strengths, and Well-being",
+    "category": "psychology",
+    "format": "txt",
+    "preview": "The field of positive psychology, optimal flow states, character strengths, and well-being represents an essential intellectual pillar within the broader discipline of psychology. Theoretical investig",
+    "words": 7925
+  },
+  {
+    "slug": "psychology__psychology_of_addiction_dopamine_reward_circuits_and_dependency-md",
+    "title": "Neuropsychology of Addiction, Mesolimbic Dopamine Sensitization, and Craving",
+    "category": "psychology",
+    "format": "md",
+    "preview": "The field of neuropsychology of addiction, mesolimbic dopamine sensitization, and craving represents an essential intellectual pillar within the broader discipline of psychology. Theoretical investiga",
+    "words": 7709
+  },
+  {
+    "slug": "psychology__sensory_perception_gestalt_principles_and_psychophysics",
+    "title": "Sensory Perception, Psychophysics Thresholds, and Gestalt Organization",
+    "category": "psychology",
+    "format": "txt",
+    "preview": "The field of sensory perception, psychophysics thresholds, and gestalt organization represents an essential intellectual pillar within the broader discipline of psychology. Theoretical investigations ",
+    "words": 7601
+  },
+  {
+    "slug": "psychology__sleep_psychology_circadian_pacemakers_and_dream_architecture",
+    "title": "Sleep Architecture, Circadian Rhythms, REM Sleep, and Neurocognitive Rejuvenation",
+    "category": "psychology",
+    "format": "txt",
+    "preview": "The field of sleep architecture, circadian rhythms, rem sleep, and neurocognitive rejuvenation represents an essential intellectual pillar within the broader discipline of psychology. Theoretical inve",
+    "words": 7817
+  },
+  {
+    "slug": "psychology__social_psychology_conformity_bystander_effect_and_groupthink",
+    "title": "Social Psychology, Interpersonal Dynamics, Conformity, and Groupthink",
+    "category": "psychology",
+    "format": "txt",
+    "preview": "The field of social psychology, interpersonal dynamics, conformity, and groupthink represents an essential intellectual pillar within the broader discipline of psychology. Theoretical investigations a",
+    "words": 7601
+  },
+  {
+    "slug": "psychology__stress_response_hpa_axis_allostatic_load_and_coping_strategies-md",
+    "title": "Stress Physiology, Hypothalamic-Pituitary-Adrenal Axis, and Allostasis",
+    "category": "psychology",
+    "format": "md",
+    "preview": "The field of stress physiology, hypothalamic-pituitary-adrenal axis, and allostasis represents an essential intellectual pillar within the broader discipline of psychology. Theoretical investigations ",
+    "words": 7709
+  },
+  {
+    "slug": "science__chemical_elements-xlsx",
+    "title": "Chemical Elements",
+    "category": "science",
+    "format": "xlsx",
+    "preview": "118 rows \u00d7 17 columns (Element Name, Chemical Symbol, Atomic Number, Standard Atomic Weight (u), \u2026)",
+    "words": 18882
+  },
+  {
+    "slug": "science__dna-md",
+    "title": "DNA: Molecular Genetics, Double Helix Architecture, Replication, and Biotechnology",
+    "category": "science",
+    "format": "md",
+    "preview": "Deoxyribonucleic acid (DNA) is the biological polymer that carries the genetic instructions for the development, functioning, growth, and reproduction of all known living organisms and many viruses. W",
+    "words": 8574
+  },
+  {
+    "slug": "science__earthquakes",
+    "title": "Earthquakes: Seismology, Tectonic Fault Mechanics, Seismic Waves, and Geohazard Mitigation",
+    "category": "science",
+    "format": "txt",
+    "preview": "An earthquake is the sudden, violent shaking of the Earth's surface caused by the rapid release of accumulated elastic strain energy within lithospheric rock masses, generating radiating seismic waves",
+    "words": 7486
+  },
+  {
+    "slug": "science__photosynthesis-md",
+    "title": "Photosynthesis: Biophysics, Light-Harvesting Complexes, the Calvin Cycle, and Rubisco Biochemistry",
+    "category": "science",
+    "format": "md",
+    "preview": "Photosynthesis is the foundational biological transducer on Earth, converting radiant electromagnetic solar energy into stable chemical potential energy stored within covalent bonds of organic carbohy",
+    "words": 8030
+  },
+  {
+    "slug": "science__quantum_mechanics",
+    "title": "Quantum Mechanics",
+    "category": "science",
+    "format": "txt",
+    "preview": "Quantum Mechanics: Wave-Particle Duality, the Uncertainty Principle, Schr\u00f6dinger's Equation, and Quantum Information Quantum Mechanics is the foundational physical theory that describes the behavior o",
+    "words": 7129
+  },
+  {
+    "slug": "science__solar_system",
+    "title": "The Solar System: Planetary Astronomy, Orbital Mechanics, Heliophysics, and Small Bodies",
+    "category": "science",
+    "format": "txt",
+    "preview": "The Solar System is the gravitationally bound planetary system comprising the Sun and the objects that orbit it, either directly or indirectly. The system formed approximately 4.6 billion years ago fr",
+    "words": 7170
+  },
+  {
+    "slug": "sociology__demographic_transitions_and_urbanization-csv",
+    "title": "Demographic Transitions And Urbanization",
+    "category": "sociology",
+    "format": "csv",
+    "preview": "130 rows \u00d7 9 columns (Metropolitan Region / Nation, Current Urban Population (Millions), Total Fertility Rate (Births/Woman), Median Population Age (Years), \u2026)",
+    "words": 30680
+  },
+  {
+    "slug": "space__black_holes_and_general_relativity",
+    "title": "Black Holes, General Relativity, Gravitational Waves, and Quantum Gravity",
+    "category": "space",
+    "format": "txt",
+    "preview": "A black hole is a region of spacetime exhibiting gravitational acceleration so extreme that nothing\u2014no particles or even electromagnetic radiation such as light\u2014can escape from its event horizon. The ",
+    "words": 7716
+  },
+  {
+    "slug": "space__interplanetary_propulsion_and_orbital_mechanics-pptx",
+    "title": "Orbital Mechanics, Interplanetary Trajectories, and Advanced Space Propulsion",
+    "category": "space",
+    "format": "pptx",
+    "preview": "Six Fundamental Classical Elements: Semi-major axis, orbital eccentricity, inclination, longitude of ascending node, argument of periapsis, and true anomaly uniquely define trajectories. Vis-Viva Ener",
+    "words": 7456
+  },
+  {
+    "slug": "space__james_webb_space_telescope-pdf",
+    "title": "James Webb Space Telescope Comprehensive Monograph",
+    "category": "space",
+    "format": "pdf",
+    "preview": "James Webb Space Telescope Comprehensive Monograph Chapter 1: Mission Architecture, L2 Halo Orbit, and Trajectory Dynamics The James Webb Space Telescope (JWST) represents an unprecedented internation",
+    "words": 6261
+  },
+  {
+    "slug": "space__mars_exploration_and_astrobiology-docx",
+    "title": "Mars: Geology, Planetary Evolution, Astrobiological Exploration, and In-Situ Resource Utilization",
+    "category": "space",
+    "format": "docx",
+    "preview": "Mars, the fourth planet from the Sun and the second-smallest planet in the Solar System, exhibits a terrestrial geology shaped by volcanic activity, tectonic cracking, atmospheric circulation, meteori",
+    "words": 6014
+  },
+  {
+    "slug": "sports__athletic_nutrition_macronutrient_periodization-docx",
+    "title": "Athletic Nutrition Science, Glycogen Resynthesis, and Macronutrient Periodization",
+    "category": "sports",
+    "format": "docx",
+    "preview": "Sports Nutrition operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets pro",
+    "words": 7004
+  },
+  {
+    "slug": "sports__biomechanics_of_swimming_stroke_hydrodynamics-pdf",
+    "title": "Swimming Biomechanics, Hydrodynamic Wave Drag, and Propulsion Stroke Efficiency",
+    "category": "sports",
+    "format": "pdf",
+    "preview": "Swimming Biomechanics, Hydrodynamic Wave Drag, and Propulsion Stroke Efficiency Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Swimming Science The exploration of fundamen",
+    "words": 7241
+  },
+  {
+    "slug": "sports__combat_sports_concussion_biomechanics_and_recovery-pdf",
+    "title": "Combat Sports Medicine, Rotational Head Acceleration, and Concussion Management",
+    "category": "sports",
+    "format": "pdf",
+    "preview": "Combat Sports Medicine, Rotational Head Acceleration, and Concussion Management Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Combat Sports The exploration of fundamental",
+    "words": 7241
+  },
+  {
+    "slug": "sports__endurance_altitude_training_and_erythropoiesis-pdf",
+    "title": "Endurance Sports Physiology, Hypoxic Altitude Acclimatization, and Erythropoiesis",
+    "category": "sports",
+    "format": "pdf",
+    "preview": "Endurance Sports Physiology, Hypoxic Altitude Acclimatization, and Erythropoiesis Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Endurance Physiology The exploration of fu",
+    "words": 7240
+  },
+  {
+    "slug": "sports__exercise_physiology_and_biomechanical_kinetics-docx",
+    "title": "Applied Exercise Physiology, Muscle Fiber Recruitment, and Biomechanical Kinetics",
+    "category": "sports",
+    "format": "docx",
+    "preview": "Exercise Science operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets pro",
+    "words": 7004
+  },
+  {
+    "slug": "sports__global_sports_leagues_and_financial_analytics-xlsx",
+    "title": "Global Sports Leagues And Financial Analytics",
+    "category": "sports",
+    "format": "xlsx",
+    "preview": "130 rows \u00d7 9 columns (Sports League / Association, Sporting Discipline, Annual Aggregate Revenue (Billion USD), Average Franchise Valuation (Billion USD), \u2026)",
+    "words": 30754
+  },
+  {
+    "slug": "sports__olympic_medals_and_athletic_records-csv",
+    "title": "Olympic Medals And Athletic Records",
+    "category": "sports",
+    "format": "csv",
+    "preview": "130 rows \u00d7 9 columns (Athletic Discipline, Record Holder / National Federation, Official World Record Performance, Date and Venue of Record, \u2026)",
+    "words": 35004
+  },
+  {
+    "slug": "sports__sports_medicine_acl_rehabilitation_and_tendinopathy-docx",
+    "title": "Sports Medicine, Ligament Rehabilitation Biomechanics, and Chronic Tendinopathy",
+    "category": "sports",
+    "format": "docx",
+    "preview": "Sports Medicine operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets prov",
+    "words": 7004
+  },
+  {
+    "slug": "sports__sports_psychology_mental_resilience_and_peak_performance-docx",
+    "title": "Sports Psychology, Cognitive Mental Resilience, and Peak Athletic Performance",
+    "category": "sports",
+    "format": "docx",
+    "preview": "Sports Psychology operates upon a coherent body of foundational axioms, physical laws, and empirical observations developed over centuries of scholarly inquiry. Understanding these governing tenets pr",
+    "words": 7004
+  },
+  {
+    "slug": "sports__track_and_field_sprinting_mechanics_and_acceleration-pdf",
+    "title": "Track and Field Sprinting Mechanics, Horizontal Force Vector Acceleration, and Cadence",
+    "category": "sports",
+    "format": "pdf",
+    "preview": "Track and Field Sprinting Mechanics, Horizontal Force Vector Acceleration, and Cadence Chapter 1: Fundamental Axiomatic Principles and Theoretical Architecture of Sprint Biomechanics The exploration o",
+    "words": 7243
+  },
+  {
+    "slug": "technology__artificial_intelligence-md",
+    "title": "Artificial Intelligence",
+    "category": "technology",
+    "format": "md",
+    "preview": "Artificial Intelligence: History, Machine Learning Paradigms, Neural Networks, Transformers, and Ethics Artificial Intelligence (AI) is the branch of computer science dedicated to engineering computat",
+    "words": 7258
+  },
+  {
+    "slug": "technology__artificial_intelligence_and_deep_learning-pptx",
+    "title": "Deep Learning Architecture, Foundation Models, and Machine Intelligence",
+    "category": "technology",
+    "format": "pptx",
+    "preview": "Perceptrons and Multilayer Architecture: Artificial neural networks model complex non-linear mathematical mappings using interconnected layers of simulated artificial neurons and learnable synaptic we",
+    "words": 7516
+  },
+  {
+    "slug": "technology__cloud_computing-pptx",
+    "title": "Comprehensive Cloud Computing Architecture, Distributed Systems, and Enterprise Infrastructure",
+    "category": "technology",
+    "format": "pptx",
+    "preview": "Definition and Evolution: Cloud computing represents the on-demand delivery of compute power, database storage, applications, and other IT resources via the internet with pay-as-you-go pricing. Histor",
+    "words": 5808
+  },
+  {
+    "slug": "technology__cloud_datacenter_energy_efficiency-xlsx",
+    "title": "Cloud Datacenter Energy Efficiency",
+    "category": "technology",
+    "format": "xlsx",
+    "preview": "130 rows \u00d7 9 columns (Datacenter Facility Code, Geographic Location, IT Power Capacity (Megawatts), Power Usage Effectiveness (PUE), \u2026)",
+    "words": 30229
+  },
+  {
+    "slug": "technology__cloud_native_architecture_deep_dive",
+    "title": "Cloud-Native Architecture: 12-Factor Apps, Microservices, Service Meshes, and Observability",
+    "category": "technology",
+    "format": "txt",
+    "preview": "Cloud-native architecture represents an approach to building, running, and scaling applications in dynamic, modern environments such as public, private, and hybrid clouds. As codified by the Cloud Nat",
+    "words": 6679
+  },
+  {
+    "slug": "technology__cybersecurity_and_cryptography-docx",
+    "title": "Cybersecurity, Applied Cryptography, and Zero-Trust Enterprise Architectures",
+    "category": "technology",
+    "format": "docx",
+    "preview": "Information security rests upon the foundational CIA Triad: Confidentiality, Integrity, and Availability. Confidentiality ensures that sensitive data remains shielded from unauthorized access or discl",
+    "words": 6362
+  },
+  {
+    "slug": "technology__distributed_systems_and_consensus-md",
+    "title": "Distributed Systems And Consensus",
+    "category": "technology",
+    "format": "md",
+    "preview": "Distributed Systems: Consensus Protocols, CAP Theorem, Fault Tolerance, and Scalable Cloud Architectures A distributed system is a collection of autonomous computing nodes that communicate over a netw",
+    "words": 7491
+  },
+  {
+    "slug": "technology__internet_history-md",
+    "title": "History of the Internet: ARPANET, TCP/IP, the World Wide Web, and the Global Network Society",
+    "category": "technology",
+    "format": "md",
+    "preview": "The Internet represents a decentralized, globally interconnected system of computer networks that communicates using the standard Internet Protocol Suite (TCP/IP). The conceptual roots of the Internet",
+    "words": 8152
+  },
+  {
+    "slug": "technology__kubernetes",
+    "title": "Kubernetes",
+    "category": "technology",
+    "format": "txt",
+    "preview": "Kubernetes: Container Orchestration, Distributed System Architecture, and Cloud-Native Infrastructure Kubernetes (often abbreviated as K8s) is an open-source container orchestration system designed fo",
+    "words": 6088
+  },
+  {
+    "slug": "technology__python_language",
+    "title": "Python Language",
+    "category": "technology",
+    "format": "txt",
+    "preview": "The Python Programming Language: History, Design Philosophy, CPython Internals, and Modern Ecosystem Python is a high-level, interpreted, general-purpose programming language known for its emphasis on",
+    "words": 6901
+  },
+  {
+    "slug": "technology__relational_databases",
+    "title": "Relational Databases",
+    "category": "technology",
+    "format": "txt",
+    "preview": "Relational Database Management Systems: Codd's Relational Model, SQL, ACID Transactions, and Storage Engines A Relational Database Management System (RDBMS) is a database system based upon the mathema",
+    "words": 6879
+  },
+  {
+    "slug": "technology__semiconductor_fabrication_nodes-csv",
+    "title": "Semiconductor Fabrication Nodes",
+    "category": "technology",
+    "format": "csv",
+    "preview": "130 rows \u00d7 9 columns (Process Node Name, Commercial Introduction Year, Transistor Density (MTr/mm2), Gate Pitch / Poly Pitch (nm), \u2026)",
+    "words": 30284
+  },
+  {
+    "slug": "transportation__aviation_safety_and_fuel_consumption-xlsx",
+    "title": "Aviation Safety And Fuel Consumption",
+    "category": "transportation",
+    "format": "xlsx",
+    "preview": "130 rows \u00d7 9 columns (Commercial Aircraft Model, Manufacturer & Country, Typical Passenger Capacity (2-Class), Fuel Consumption Rate (Liters/100 passenger-km), \u2026)",
+    "words": 31727
+  },
+  {
+    "slug": "world__modern_international_law_and_treaties-pdf",
+    "title": "Modern International Law, Treaties, and Global Governance",
+    "category": "world",
+    "format": "pdf",
+    "preview": "Modern International Law, Treaties, and Global Governance Chapter 1: Foundations of Public International Law and the Westphalian State System Public international law governs the legal relations, righ",
+    "words": 6915
+  },
+  {
+    "slug": "world__renaissance_and_scientific_revolution-docx",
+    "title": "The Renaissance, Scientific Revolution, and the Emergence of Modern Intellectual Thought",
+    "category": "world",
+    "format": "docx",
+    "preview": "The European Renaissance (spanning roughly the 14th to the 17th centuries) marked an epochal cultural, philosophical, and artistic transformation that bridged the medieval era and the modern world. Or",
+    "words": 7357
+  },
+  {
+    "slug": "world__the_silk_road_and_global_trade-md",
+    "title": "The Silk Road: Trans-Eurasian Trade Networks, Cultural Convergence, and Intellectual Exchange",
+    "category": "world",
+    "format": "md",
+    "preview": "The Silk Road refers to the ancient, interconnected network of overland and maritime trade routes that traversed the Eurasian continent, linking East Asia (principally imperial China) with Central Asi",
+    "words": 5481
+  }
+]
