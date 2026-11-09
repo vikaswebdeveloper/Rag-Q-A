@@ -81,6 +81,7 @@ def sendEmail(to: str, subject: str, text: str, html: str):
             headers = {
                 "Authorization": f"Bearer {settings.RESEND_API_KEY.strip()}",
                 "Content-Type": "application/json",
+                "User-Agent": "rag-qa-app/1.0",
             }
             from_sender = settings.SMTP_FROM if "@" in settings.SMTP_FROM and "gmail.com" not in settings.SMTP_FROM else "RAG Q&A <onboarding@resend.dev>"
             payload = json.dumps({
