@@ -228,25 +228,28 @@ def search(
         return empty_res
 
     if settings.RERANK and len(cand_passages) > 1:
-        reranker = getReranker()
-        texts = [p[0] for p in cand_passages]
-        scores = list(reranker.rerank(question, texts))
-        scored = list(zip(cand_passages, scores))
-        scored.sort(key=lambda x: x[1], reverse=True)
+        try:
+            reranker = getReranker()
+            texts = [p[0] for p in cand_passages]
+            scores = list(reranker.rerank(question, texts))
+            scored = list(zip(cand_passages, scores))
+            scored.sort(key=lambda x: x[1], reverse=True)
 
-        # Dynamic relevance threshold: prune low-scoring passages that drop off the score cliff
-        is_jina = "jina" in settings.RERANK_MODEL.lower()
-        max_drop = 1.6 if is_jina else 7.0
-        min_cutoff = 0.2 if is_jina else -2.0
+            is_jina = "jina" in settings.RERANK_MODEL.lower()
+            max_drop = 1.6 if is_jina else 7.0
+            min_cutoff = 0.2 if is_jina else -2.0
 
-        top_score = scored[0][1]
-        top = [scored[0][0]]
-        for p, s in scored[1:k]:
-            if top_score > 0 and (s < min_cutoff or (top_score - s) > max_drop):
-                continue
-            if top_score <= 0 and (top_score - s) > 1.0:
-                continue
-            top.append(p)
+            top_score = scored[0][1]
+            top = [scored[0][0]]
+            for p, s in scored[1:k]:
+                if top_score > 0 and (s < min_cutoff or (top_score - s) > max_drop):
+                    continue
+                if top_score <= 0 and (top_score - s) > 1.0:
+                    continue
+                top.append(p)
+        except Exception as e:
+            logger.warning("Reranking skipped: %s", e)
+            top = cand_passages[:k]
     else:
         top = cand_passages[:k]
 
